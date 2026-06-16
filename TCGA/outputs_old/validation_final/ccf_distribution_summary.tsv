@@ -1,0 +1,3 @@
+cohort	n	mean	median	sd	p10	p25	p75	p90	pct_clonal	pct_subclonal
+TCGA_LUAD_dpclust3p	173270	0.9475	0.9397	0.3397	0.5297	0.7527	1.1172	1.3487	70.15	8.71
+TRACERx_LUAD_2017	65421	0.9456	1	0.1313	0.84	0.97	1	1	92.61	2.71

@@ -1,0 +1,2 @@
+shared_gene_count	tracerx_gene_count	luad_gene_count	common_gene_fraction_tracerx	common_gene_fraction_luad	spearman_rho	kendall_tau	top20_overlap_count	top20_jaccard
+13634	15346	17599	0.888439984360745	0.774703108131144	0.145203569919519	0.0999244094018474	0	0

@@ -1,0 +1,76 @@
+GENE_SYMBOL	TIER	ROLE_IN_CANCER	MOLECULAR_GENETICS	TUMOUR_TYPES_SOMATIC	LUNG_MATCH
+AKT1	1	oncogene	Dom	breast, colorectal, ovarian, NSCLC	NSCLC
+ALK	1	oncogene, fusion	Dom	ALCL, NSCLC, neuroblastoma, inflammatory myofibroblastic tumour, Spitzoid tumour	NSCLC
+ARAF	2	oncogene		cholangiocarcinoma, lung adenocarcinoma, Langerhans cell histiocytosis	LUAD
+ASPM	2			breast cancer, lung cancer, endometrial cancer, melanoma	lung_cancer
+BAP1	1	TSG	Rec	uveal melanoma, breast, NSCLC, RCC	NSCLC
+BIRC6	2	oncogene, fusion		melanoma, gastric adenocarcinoma, lung adenocarcinoma	LUAD
+BRAF	1	oncogene, fusion	Dom	melanoma, colorectal, papillary thyroid, borderline ovarian, NSCLC, cholangiocarcinoma, pilocytic astrocytoma, Spitzoid tumour, pancreas acinar carcinoma, melanocytic nevus, prostate, gastric	NSCLC
+CCDC6	1	TSG, fusion	Dom	papillary thyroid, CML, NSCLC	NSCLC
+CD74	1	oncogene, fusion	Dom	NSCLC	NSCLC
+CPEB3	2	TSG		lung cancer	lung_cancer
+CSMD3	2	TSG		ovarian cancer, oral SCC, lung cancer	lung_cancer
+CUL3	2	TSG		lung cancer	lung_cancer
+DDR2	1	oncogene	Dom	squamous cell carcinoma, NSCLC	NSCLC
+DROSHA	1	TSG		Wilms tumour, NSCLC, bladder carcinoma	NSCLC
+EED	2	TSG		malignant peripheral nerve sheath tumours, MDS and related, lung adenocarcinoma	LUAD
+EGFR	1	oncogene	Dom	glioma, NSCLC	NSCLC
+EML4	1	fusion	Dom	NSCLC	NSCLC
+EPHA3	2			lung cancer, CRC, melanoma	lung_cancer
+ERBB2	1	oncogene, fusion	Dom	breast, ovarian, other tumour types, NSCLC, gastric	NSCLC
+ERBB4	1	oncogene, TSG	Dom	melanoma, gastric, NSCLC	NSCLC
+EZR	1	fusion	Dom	NSCLC	NSCLC
+FGFR2	1	oncogene, fusion	Dom	gastric, NSCLC, endometrial	NSCLC
+GOLPH3	2			breast cancer, NSCLC, ovarian cancer	NSCLC
+GPC5	2	TSG		lung adenocarcinoma	LUAD
+GRIN2A	1	TSG	Rec	melanoma, colorectal carcinoma, gastric carcinoma, lung carcinoma	lung_cancer
+HGF	1	oncogene, fusion		breast cancer, lung cancer, multiple myeloma	lung_cancer
+HIF1A	1	oncogene	Dom	endometrioid carcinoma, glioblastoma, colorectal, renal, lung, pancreatic	lung_general
+HIP1	1	oncogene, fusion	Dom	CMML, NSCLC	NSCLC
+ITGB1	2			cutaneous melanoma, lung adenocarcinoma	LUAD
+KDR	1	oncogene	Dom	NSCLC, angiosarcoma	NSCLC
+KEAP1	1	TSG		NSCLC, breast carcinoma	NSCLC
+KIF5B	1	fusion	Dom	NSCLC, Spitzoid tumour	NSCLC
+KRAS	1	oncogene	Dom	pancreatic, colorectal, lung, thyroid, AML, other tumour types	lung_general
+LEPROTL1	2	TSG		lung cancer, colon cancer	lung_cancer
+LRIG3	1	TSG, fusion	Dom	NSCLC	NSCLC
+MALAT1	2	oncogene, TSG, fusion	Dom	renal cell carcinoma (childhood epithelioid), lung	lung_general
+MAP2K1	1	oncogene	Dom	NSCLC, melanoma, colorectal	NSCLC
+MAP2K2	1	oncogene	Dom	NSCLC, melanoma	NSCLC
+MB21D2	2			lung cancer	lung_cancer
+MYCL	1	oncogene	Dom	small cell lung carcinoma	SCLC,lung_cancer
+N4BP2	2	TSG		lung cancer	lung_cancer
+NFE2L2	1	oncogene, TSG	Dom	NSCLC, HNSCC	NSCLC
+NKX2-1	1	oncogene, TSG	Dom	lung adenocarcinoma, lung adenocarcinoma (mucinous), T-ALL	LUAD
+NOTCH1	1	oncogene, TSG, fusion	Dom/Rec	T-ALL, breast, bladder, skin SCC, lung SCC, head and neck SCC	LUSC
+NRG1	1	fusion	Dom	NSCLC	NSCLC
+NTRK2	1	oncogene, fusion		colorectal cancer, ganglioglioma, glioma, HNSCC, lung adenocarcinoma	LUAD
+PIK3CB	1	oncogene		SCC, NSCLC	NSCLC
+PRKCI	1	oncogene		lung SCC, oesophageal cancer	LUSC
+PTPN13	1	TSG	Rec	lung, NSCLC, gastric, peritoneal carcinomatosis	NSCLC,lung_general
+PTPRD	2	TSG		lung cancer, kidney cancer, HNSCC, glioblastoma	lung_cancer
+PTPRT	1	TSG		HNSCC, colorectal cancer, gastric cancer, lung cancer, melanoma	lung_cancer
+RAD21	1	oncogene, TSG	Rec	AML, endometrium, colorectal, lung	lung_general
+RAD51	2	fusion, oncogene		lung adenocarcinoma	LUAD
+RASA1	1	TSG		lung SCC, oral SCC	LUSC
+RB1	1	TSG	Rec	retinoblastoma, sarcoma, breast, small cell lung carcinoma	SCLC,lung_cancer
+RBM10	1	TSG	Rec/X	lung adenocarcinoma	LUAD
+RET	1	oncogene, fusion	Dom	medullary thyroid, papillary thyroid, pheochromocytoma, NSCLC, Spitzoid tumour	NSCLC
+RFWD3	2	TSG		lung cancer	lung_cancer
+RICTOR	1	oncogene		lung SCC	LUSC
+ROS1	1	oncogene, fusion	Dom	glioblastoma, NSCLC, Spitzoid tumour, cholangiocarcinoma, borderline ovarian	NSCLC
+SDC4	1	fusion	Dom	NSCLC	NSCLC
+SIRPA	2	TSG		HNSCC, colorectal cancer, Lung SCC	LUSC
+SLC34A2	1	TSG, fusion	Dom	NSCLC	NSCLC
+SMARCA4	1	TSG	Rec	NSCLC, SCCOHT	NSCLC
+SOS1	1	oncogene, fusion		lung adenocarcinoma, follicular thyroid adenoma	LUAD
+SOX2	1	oncogene	Dom	NSCLC, oesophageal squamous cell carcinoma	NSCLC
+STK11	1	TSG	Rec	NSCLC, pancreatic	NSCLC
+STRN	1	fusion	Dom	anaplastic thyroid, papillary thyroid, lung	lung_general
+SUB1	2			lung cancer	lung_cancer
+TFG	1	fusion	Dom	papillary thyroid, ALCL, NSCLC, extraskeletal myxoid chondrosarcoma	NSCLC
+TP53	1	oncogene, TSG, fusion	Rec	breast, colorectal, lung, sarcoma, prostate, adrenocortical, glioma, Spitzoid tumour, multiple other tumour types	lung_general
+TPM3	1	TSG, fusion	Dom	papillary thyroid, ALCL, NSCLC, Spitzoid tumour	NSCLC
+TPR	1	fusion	Dom	papillary thyroid, NSCLC	NSCLC
+USP44	2	TSG		lung cancer, colon cancer	lung_cancer
+ZNF479	2			lung cancer, bladder carcinoma, prostate carcinoma	lung_cancer
