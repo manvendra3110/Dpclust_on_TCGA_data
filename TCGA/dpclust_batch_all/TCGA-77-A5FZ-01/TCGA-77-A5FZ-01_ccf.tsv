@@ -1,0 +1,2 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+20	29978261	G	T	DEFB119	Missense_Mutation	185	6	191	0.031413612565445025	2	1	1	0.1366	1	0.1366	0.1366	False	0.46	2.0
