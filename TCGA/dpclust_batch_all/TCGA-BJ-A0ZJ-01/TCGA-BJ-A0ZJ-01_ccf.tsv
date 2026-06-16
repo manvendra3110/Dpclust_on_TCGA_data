@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	66795998	C	A	MEIS1	Intron	45	3	48	0.0625	2	1	1	0.2232	1	0.2232	0.2232	False	0.56	2.0
+6	138428527	G	A	PERP	5'UTR	10	4	14	0.2857142857142857	2	1	1	1.0204	1	1.0204	1.0	True	0.56	2.0
+15	40913253	A	G	CASC5	Missense_Mutation	97	6	103	0.05825242718446602	2	1	1	0.208	1	0.208	0.208	False	0.56	2.0
+16	50059581	G	A	CNEP1R1	Silent	59	14	73	0.1917808219178082	2	1	1	0.6849	1	0.6849	0.6849	False	0.56	2.0

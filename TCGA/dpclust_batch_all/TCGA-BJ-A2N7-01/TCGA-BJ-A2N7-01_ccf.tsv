@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	115256529	T	C	NRAS	Missense_Mutation	92	56	148	0.3783783783783784	2	1	1	0.9828	1	0.9828	0.9828	True	0.77	2.0
+1	227921473	G	C	SNAP47	5'Flank	10	9	19	0.47368421052631576	2	1	1	1.2303	1	1.2303	1.0	True	0.77	2.0
+19	12991827	C	T	DNASE2	Missense_Mutation	19	25	44	0.5681818181818182	2	1	1	1.4758	1	1.4758	1.0	True	0.77	2.0
+19	43358193	G	A	PSG10P	RNA	448	24	472	0.05084745762711865	2	1	1	0.1321	1	0.1321	0.1321	False	0.77	2.0
+21	39795356	C	G	ERG	Missense_Mutation	25	13	38	0.34210526315789475	2	1	1	0.8886	1	0.8886	0.8886	True	0.77	2.0

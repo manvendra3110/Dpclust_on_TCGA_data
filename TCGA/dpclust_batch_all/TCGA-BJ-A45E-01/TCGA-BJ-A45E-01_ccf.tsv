@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	152286555	A	C	FLG	Silent	128	10	138	0.07246376811594203	2	1	1	0.5797	1	0.5797	0.5797	False	0.25	2.21
+3	58728184	G	A	C3orf67	3'UTR	16	4	20	0.2	2	1	1	1.6	1	1.6	1.0	True	0.25	2.21
+10	48390034	C	T	RBP3	Missense_Mutation	47	4	51	0.0784313725490196	2	1	1	0.6275	1	0.6275	0.6275	False	0.25	2.21
+12	53586181	C	T	ITGB7	Silent	84	13	97	0.13402061855670103	2	1	1	1.0722	1	1.0722	1.0	True	0.25	2.21
+17	40673189	A	G	ATP6V0A1	3'UTR	37	5	42	0.11904761904761904	2	1	1	0.9524	1	0.9524	0.9524	True	0.25	2.21
+20	44578157	T	C	ZNF335	Silent	22	4	26	0.15384615384615385	2	1	1	1.2308	1	1.2308	1.0	True	0.25	2.21

@@ -1,0 +1,2 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+9	99083567	T	C	SLC35D2	Missense_Mutation	70	6	76	0.07894736842105263	2	1	1	0.188	1	0.188	0.188	False	0.84	2.0
