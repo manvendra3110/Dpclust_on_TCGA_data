@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	36181895	C	A	C1orf216	Nonsense_Mutation	18	3	21	0.14285714285714285	2	1	1	0.2915	1	0.2915	0.2915	False	0.98	2.0
+9	101014206	G	A	TBC1D2	Silent	62	3	65	0.046153846153846156	2	1	1	0.0942	1	0.0942	0.0942	False	0.98	2.0
+10	97918507	C	T	ZNF518A	RNA	26	3	29	0.10344827586206896	2	1	1	0.2111	1	0.2111	0.2111	False	0.98	2.0
+16	27472773	G	A	GTF3C1	Silent	93	5	98	0.05102040816326531	2	1	1	0.1041	1	0.1041	0.1041	False	0.98	2.0
+17	37985743	T	G	IKZF3	Splice_Site	60	4	64	0.0625	2	1	1	0.1276	1	0.1276	0.1276	False	0.98	2.0
+X	110494483	C	A	CAPN6	Missense_Mutation	36	3	39	0.07692307692307693	2	1	1	0.157	1	0.157	0.157	False	0.98	2.0
