@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	74492567	T	C	LRRIQ3	Missense_Mutation	20	10	30	0.3333333333333333	2	1	1	0.6944	1	0.6944	0.6944	False	0.96	2.0
+1	100327958	C	T	AGL	Missense_Mutation	65	68	133	0.5112781954887218	2	1	1	1.0652	1	1.0652	1.0	True	0.96	2.0
+1	248263034	C	T	OR2L13	Silent	168	37	205	0.18048780487804877	2	1	1	0.376	1	0.376	0.376	False	0.96	2.0
+6	89967652	C	G	GABRR2	Missense_Mutation	25	10	35	0.2857142857142857	2	1	1	0.5952	1	0.5952	0.5952	False	0.96	2.0
+20	61512289	C	G	DIDO1	Silent	32	3	35	0.08571428571428572	2	1	1	0.1786	1	0.1786	0.1786	False	0.96	2.0
+X	20156732	C	G	EIF1AX	Missense_Mutation	15	66	81	0.8148148148148148	2	1	1	1.6975	1	1.6975	1.0	True	0.96	2.0

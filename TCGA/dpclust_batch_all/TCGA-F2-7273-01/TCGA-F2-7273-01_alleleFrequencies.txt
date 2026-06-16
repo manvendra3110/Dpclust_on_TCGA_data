@@ -1,0 +1,4 @@
+#CHR	POS	Count_A	Count_C	Count_G	Count_T	Good_depth
+10	76789141	0	14	420	0	434
+16	15029047	15	0	44	0	59
+16	30206149	7	0	58	0	65

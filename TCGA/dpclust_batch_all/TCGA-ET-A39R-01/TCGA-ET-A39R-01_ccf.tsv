@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	227663266	C	A	IRS1	Silent	165	21	186	0.11290322580645161	2	1	1	1.0264	1	1.0264	1.0	True	0.22	2.0
+7	149129472	C	G	ZNF777	Missense_Mutation	117	34	151	0.2251655629139073	2	1	1	2.047	1	2.047	1.0	True	0.22	2.0
+8	133053841	C	T	OC90	Missense_Mutation	14	7	21	0.3333333333333333	2	1	1	3.0303	1	3.0303	1.0	True	0.22	2.0
+19	10116500	G	A	COL5A3	Missense_Mutation	10	6	16	0.375	2	1	1	3.4091	1	3.4091	1.0	True	0.22	2.0
+X	152734614	T	C	HAUS7	Missense_Mutation	88	47	135	0.34814814814814815	2	1	1	3.165	1	3.165	1.0	True	0.22	2.0

@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	155106075	C	A	EFNA1	Intron	48	3	51	0.058823529411764705	2	1	1	0.1352	1	0.1352	0.1352	False	0.87	2.0
+9	4662738	G	C	PPAPDC2	Silent	35	15	50	0.3	2	1	1	0.6897	1	0.6897	0.6897	False	0.87	2.0
+10	61666090	C	T	CCDC6	Silent	25	4	29	0.13793103448275862	2	1	1	0.3171	1	0.3171	0.3171	False	0.87	2.0
+X	54581094	A	T	GNL3L	Missense_Mutation	84	5	89	0.056179775280898875	2	1	1	0.1291	1	0.1291	0.1291	False	0.87	2.0
+X	99942293	G	A	SYTL4	Intron	24	3	27	0.1111111111111111	2	1	1	0.2554	1	0.2554	0.2554	False	0.87	2.0

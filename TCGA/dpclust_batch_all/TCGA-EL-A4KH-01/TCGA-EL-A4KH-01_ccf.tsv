@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	192701209	C	T	SDPR	Missense_Mutation	195	7	202	0.034653465346534656	2	1	1	0.105	1	0.105	0.105	False	0.66	2.0
+6	33281527	G	A	TAPBP	Missense_Mutation	44	7	51	0.13725490196078433	2	1	1	0.4159	1	0.4159	0.4159	False	0.66	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	45	21	66	0.3181818181818182	2	1	1	0.9642	1	0.9642	0.9642	True	0.66	2.0
+7	149152881	C	A	ZNF777	Missense_Mutation	78	45	123	0.36585365853658536	2	1	1	1.1086	1	1.1086	1.0	True	0.66	2.0
+12	6707418	G	A	CHD4	Silent	132	6	138	0.043478260869565216	2	1	1	0.1318	1	0.1318	0.1318	False	0.66	2.0

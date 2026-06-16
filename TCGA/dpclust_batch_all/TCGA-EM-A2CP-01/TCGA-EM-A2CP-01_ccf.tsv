@@ -1,0 +1,4 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+11	76371702	C	T	LRRC32	Missense_Mutation	43	6	49	0.12244897959183673	2	1	1	0.2474	1	0.2474	0.2474	False	0.99	2.0
+X	48819837	A	G	KCND1	3'UTR	18	4	22	0.18181818181818182	2	1	1	0.3673	1	0.3673	0.3673	False	0.99	2.0
+X	150869382	C	T	PRRG3	Silent	69	4	73	0.0547945205479452	2	1	1	0.1107	1	0.1107	0.1107	False	0.99	2.0

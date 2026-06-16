@@ -1,0 +1,8 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	34011735	A	G	CSMD2	Missense_Mutation	25	33	58	0.5689655172413793	2	1	1	1.4224	1	1.4224	1.0	True	0.8	1.97
+1	44457888	C	T	CCDC24	Missense_Mutation	133	13	146	0.08904109589041095	2	1	1	0.2226	1	0.2226	0.2226	False	0.8	1.97
+11	4790251	T	A	OR51F1	Missense_Mutation	55	40	95	0.42105263157894735	2	1	1	1.0526	1	1.0526	1.0	True	0.8	1.97
+14	95557639	C	G	DICER1	Missense_Mutation	179	96	275	0.3490909090909091	2	1	1	0.8727	1	0.8727	0.8727	True	0.8	1.97
+17	37371255	C	T	STAC2	Missense_Mutation	168	90	258	0.3488372093023256	2	1	1	0.8721	1	0.8721	0.8721	True	0.8	1.97
+17	58143675	T	A	HEATR6	Missense_Mutation	41	15	56	0.26785714285714285	2	1	1	0.6696	1	0.6696	0.6696	False	0.8	1.97
+X	135767911	C	A	ARHGEF6	Missense_Mutation	123	13	136	0.09558823529411764	2	1	1	0.239	1	0.239	0.239	False	0.8	1.97

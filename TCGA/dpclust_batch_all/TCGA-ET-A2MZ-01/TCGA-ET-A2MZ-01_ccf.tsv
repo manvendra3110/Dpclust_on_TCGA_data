@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	43010952	T	A	HAAO	Missense_Mutation	12	8	20	0.4	3	2	1	2.0327	2	1.0163	1.0	True	0.49	3.0
+7	140453136	A	T	BRAF	Missense_Mutation	63	38	101	0.37623762376237624	3	2	1	1.9119	2	0.956	0.956	True	0.49	3.0
+8	37693173	G	A	GPR124	Silent	85	33	118	0.2796610169491525	3	2	1	1.4211	1	1.4211	1.0	True	0.49	3.0
+10	81113639	C	G	PPIF	3'UTR	11	5	16	0.3125	3	2	1	1.588	2	0.794	0.794	False	0.49	3.0
+19	24288767	C	T	ZNF254	Missense_Mutation	127	67	194	0.34536082474226804	3	2	1	1.755	2	0.8775	0.8775	True	0.49	3.0

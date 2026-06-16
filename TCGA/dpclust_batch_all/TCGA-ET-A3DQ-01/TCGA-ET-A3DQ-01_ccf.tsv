@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+6	139694455	G	T	CITED2	Silent	87	11	98	0.11224489795918367	2	1	1	0.6067	1	0.6067	0.6067	False	0.37	1.98
+10	115481474	G	T	CASP7	Silent	125	22	147	0.14965986394557823	2	1	1	0.809	1	0.809	0.809	False	0.37	1.98
+17	4643964	C	A	ZMYND15	Silent	39	3	42	0.07142857142857142	2	1	1	0.3861	1	0.3861	0.3861	False	0.37	1.98
+18	30350455	C	A	KLHL14	Missense_Mutation	48	13	61	0.21311475409836064	2	1	1	1.152	1	1.152	1.0	True	0.37	1.98
+19	38993288	G	A	RYR1	Missense_Mutation	48	3	51	0.058823529411764705	2	1	1	0.318	1	0.318	0.318	False	0.37	1.98
+22	20130550	C	T	ZDHHC8	Missense_Mutation	42	3	45	0.06666666666666667	2	1	1	0.3604	1	0.3604	0.3604	False	0.37	1.98

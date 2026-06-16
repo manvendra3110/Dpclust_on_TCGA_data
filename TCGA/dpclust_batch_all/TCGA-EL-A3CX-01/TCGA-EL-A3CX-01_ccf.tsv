@@ -1,0 +1,10 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+3	97868995	G	A	OR5H14	Missense_Mutation	35	20	55	0.36363636363636365	2	1	1	0.8979	1	0.8979	0.8979	True	0.81	2.0
+3	98073450	T	C	OR5K4	Silent	62	66	128	0.515625	2	1	1	1.2731	1	1.2731	1.0	True	0.81	2.0
+3	129389482	G	C	TMCC1	Missense_Mutation	48	34	82	0.4146341463414634	2	1	1	1.0238	1	1.0238	1.0	True	0.81	2.0
+5	112116592	C	T	APC	Nonsense_Mutation	1	15	16	0.9375	2	1	1	2.3148	1	2.3148	1.0	True	0.81	2.0
+7	128470999	C	G	FLNC	Missense_Mutation	30	18	48	0.375	2	1	1	0.9259	1	0.9259	0.9259	True	0.81	2.0
+9	137642703	C	T	COL5A1	Missense_Mutation	38	3	41	0.07317073170731707	2	1	1	0.1807	1	0.1807	0.1807	False	0.81	2.0
+18	34326989	G	A	FHOD3	Missense_Mutation	29	33	62	0.532258064516129	2	1	1	1.3142	1	1.3142	1.0	True	0.81	2.0
+20	20506939	T	C	RALGAPA2	Missense_Mutation	15	3	18	0.16666666666666666	2	1	1	0.4115	1	0.4115	0.4115	False	0.81	2.0
+22	32019743	G	A	PISD	Missense_Mutation	42	3	45	0.06666666666666667	2	1	1	0.1646	1	0.1646	0.1646	False	0.81	2.0

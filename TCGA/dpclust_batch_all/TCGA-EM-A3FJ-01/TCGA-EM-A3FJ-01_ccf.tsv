@@ -1,0 +1,4 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+7	140453136	A	T	BRAF	Missense_Mutation	15	14	29	0.4827586206896552	2	1	1	1.5828	1	1.5828	1.0	True	0.61	2.0
+12	70723333	G	T	CNOT2	Silent	58	3	61	0.04918032786885246	2	1	1	0.1612	1	0.1612	0.1612	False	0.61	2.0
+13	41635773	G	A	WBP4	5'UTR	49	3	52	0.057692307692307696	2	1	1	0.1892	1	0.1892	0.1892	False	0.61	2.0

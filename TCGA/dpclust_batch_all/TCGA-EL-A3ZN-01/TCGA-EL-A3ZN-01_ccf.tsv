@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+7	63727074	A	G	ZNF679	Missense_Mutation	22	3	25	0.12	2	1	1	0.48	1	0.48	0.48	False	0.5	2.0
+11	100922214	T	C	PGR	Silent	47	25	72	0.3472222222222222	2	1	1	1.3889	1	1.3889	1.0	True	0.5	2.0
+19	18368857	G	A	KIAA1683	Silent	134	51	185	0.2756756756756757	2	1	1	1.1027	1	1.1027	1.0	True	0.5	2.0
+20	32161875	A	G	CBFA2T2	5'UTR	20	4	24	0.16666666666666666	2	1	1	0.6667	1	0.6667	0.6667	False	0.5	2.0
+20	32161876	A	T	CBFA2T2	5'UTR	20	3	23	0.13043478260869565	2	1	1	0.5217	1	0.5217	0.5217	False	0.5	2.0
+22	31531664	C	G	PLA2G3	3'UTR	65	31	96	0.3229166666666667	2	1	1	1.2917	1	1.2917	1.0	True	0.5	2.0

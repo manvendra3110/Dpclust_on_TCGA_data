@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+3	39185627	C	T	CSRNP1	Splice_Site	49	5	54	0.09259259259259259	2	1	1	0.3704	1	0.3704	0.3704	False	0.5	2.0
+3	52696223	C	A	PBRM1	Missense_Mutation	122	6	128	0.046875	2	1	1	0.1875	1	0.1875	0.1875	False	0.5	2.0
+3	195796323	C	T	TFRC	Intron	24	3	27	0.1111111111111111	2	1	1	0.4444	1	0.4444	0.4444	False	0.5	2.0
+6	26156583	C	T	HIST1H1E	5'UTR	88	5	93	0.053763440860215055	2	1	1	0.2151	1	0.2151	0.2151	False	0.5	2.0
+19	54290977	G	A	MIR371A	RNA	45	4	49	0.08163265306122448	2	1	1	0.3265	1	0.3265	0.3265	False	0.5	2.0
+22	26743709	C	T	SEZ6L	Missense_Mutation	49	5	54	0.09259259259259259	2	1	1	0.3704	1	0.3704	0.3704	False	0.5	2.0

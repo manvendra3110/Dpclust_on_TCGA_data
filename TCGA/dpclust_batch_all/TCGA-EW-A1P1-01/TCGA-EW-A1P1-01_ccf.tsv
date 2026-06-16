@@ -1,0 +1,4 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+7	98951670	T	G	ARPC1A	Silent	65	6	71	0.08450704225352113	2	1	1	0.4695	1	0.4695	0.4695	False	0.36	2.0
+17	7577120	C	T	TP53	Missense_Mutation	53	6	59	0.1016949152542373	2	1	1	0.565	1	0.565	0.565	False	0.36	2.0
+20	44637587	G	T	MMP9	Missense_Mutation	29	3	32	0.09375	2	1	1	0.5208	1	0.5208	0.5208	False	0.36	2.0

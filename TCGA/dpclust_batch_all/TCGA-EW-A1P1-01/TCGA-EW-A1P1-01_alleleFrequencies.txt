@@ -1,0 +1,4 @@
+#CHR	POS	Count_A	Count_C	Count_G	Count_T	Good_depth
+7	98951670	0	0	6	65	71
+17	7577120	0	53	0	6	59
+20	44637587	0	0	29	3	32

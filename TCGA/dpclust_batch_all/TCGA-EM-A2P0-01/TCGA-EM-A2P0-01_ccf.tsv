@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+3	49764412	A	G	IP6K1	3'UTR	10	2	12	0.16666666666666666	2	1	1	0.5208	1	0.5208	0.5208	False	0.64	2.0
+7	100675605	A	G	MUC17	Missense_Mutation	376	12	388	0.030927835051546393	2	1	1	0.0966	1	0.0966	0.0966	False	0.64	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	45	23	68	0.3382352941176471	2	1	1	1.057	1	1.057	1.0	True	0.64	2.0
+16	72829160	A	C	ZFHX3	Missense_Mutation	90	4	94	0.0425531914893617	2	1	1	0.133	1	0.133	0.133	False	0.64	2.0

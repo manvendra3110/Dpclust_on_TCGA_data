@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	70890788	G	A	ADD2	Silent	93	7	100	0.07	2	1	1	0.2121	1	0.2121	0.2121	False	0.66	2.0
+3	41746766	G	C	ULK4	Missense_Mutation	67	9	76	0.11842105263157894	2	1	1	0.3589	1	0.3589	0.3589	False	0.66	2.0
+4	1902918	G	A	WHSC1	Silent	69	4	73	0.0547945205479452	2	1	1	0.166	1	0.166	0.166	False	0.66	2.0
+18	47421475	G	A	MYO5B	Missense_Mutation	62	4	66	0.06060606060606061	2	1	1	0.1837	1	0.1837	0.1837	False	0.66	2.0

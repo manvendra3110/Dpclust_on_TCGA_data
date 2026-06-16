@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+6	30128710	T	C	TRIM10	5'UTR	7	2	9	0.2222222222222222	2	1	1	1.084	1	1.084	1.0	True	0.41	2.0
+6	151939128	T	G	CCDC170	Missense_Mutation	84	20	104	0.19230769230769232	2	1	1	0.9381	1	0.9381	0.9381	True	0.41	2.0
+9	17236437	G	A	CNTLN	Missense_Mutation	66	17	83	0.20481927710843373	2	1	1	0.9991	1	0.9991	0.9991	True	0.41	2.0
+12	106460871	G	A	NUAK1	Silent	51	8	59	0.13559322033898305	2	1	1	0.6614	1	0.6614	0.6614	False	0.41	2.0
+12	112589709	T	G	TRAFD1	Missense_Mutation	261	16	277	0.05776173285198556	2	1	1	0.2818	1	0.2818	0.2818	False	0.41	2.0
+16	77396028	C	T	ADAMTS18	Nonsense_Mutation	30	6	36	0.16666666666666666	2	1	1	0.813	1	0.813	0.813	False	0.41	2.0

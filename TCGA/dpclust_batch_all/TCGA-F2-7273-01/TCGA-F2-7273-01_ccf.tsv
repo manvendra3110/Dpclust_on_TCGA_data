@@ -1,0 +1,4 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+10	76789141	G	C	KAT6B	Missense_Mutation	420	14	434	0.03225806451612903	2	1	1	0.0701	1	0.0701	0.0701	False	0.92	2.0
+16	15029047	G	A	NPIPA1	5'Flank	44	15	59	0.2542372881355932	2	1	1	0.5527	1	0.5527	0.5527	False	0.92	2.0
+16	30206149	G	A	SULT1A3	5'Flank	58	7	65	0.1076923076923077	2	1	1	0.2341	1	0.2341	0.2341	False	0.92	2.0

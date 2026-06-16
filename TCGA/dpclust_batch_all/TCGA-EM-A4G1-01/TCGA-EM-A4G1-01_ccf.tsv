@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	115256529	T	C	NRAS	Missense_Mutation	57	38	95	0.4	2	1	1	1.3559	1	1.3559	1.0	True	0.59	2.0
+4	1984941	G	A	NELFA	3'UTR	6	7	13	0.5384615384615384	2	1	1	1.8253	1	1.8253	1.0	True	0.59	2.0
+5	57790871	T	A	GAPT	3'UTR	19	3	22	0.13636363636363635	2	1	1	0.4622	1	0.4622	0.4622	False	0.59	2.0
+6	7231938	C	T	RREB1	Silent	30	3	33	0.09090909090909091	2	1	1	0.3082	1	0.3082	0.3082	False	0.59	2.0
+8	49643125	C	T	EFCAB1	Missense_Mutation	17	4	21	0.19047619047619047	2	1	1	0.6457	1	0.6457	0.6457	False	0.59	2.0

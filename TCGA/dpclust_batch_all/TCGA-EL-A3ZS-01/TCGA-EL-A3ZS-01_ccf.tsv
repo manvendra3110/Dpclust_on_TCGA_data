@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	179428462	G	T	TTN	Missense_Mutation	97	7	104	0.0673076923076923	2	1	1	0.2692	1	0.2692	0.2692	False	0.5	1.99
+2	179449515	G	A	TTN	Missense_Mutation	267	13	280	0.04642857142857143	2	1	1	0.1857	1	0.1857	0.1857	False	0.5	1.99
+8	25296836	C	G	KCTD9	Missense_Mutation	26	4	30	0.13333333333333333	2	1	1	0.5333	1	0.5333	0.5333	False	0.5	1.99
+12	7045127	A	G	ATN1	Missense_Mutation	34	11	45	0.24444444444444444	2	1	1	0.9778	1	0.9778	0.9778	True	0.5	1.99
+12	49730112	G	T	C1QL4	Missense_Mutation	7	4	11	0.36363636363636365	2	1	1	1.4545	1	1.4545	1.0	True	0.5	1.99
