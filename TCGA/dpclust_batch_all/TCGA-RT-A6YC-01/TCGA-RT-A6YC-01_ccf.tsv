@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+3	45748365	A	G	SACM1L	Missense_Mutation	40	25	65	0.38461538461538464	2	1	1	1.0989	1	1.0989	1.0	True	0.7	2.0
+6	18572094	T	A	MIR548A1	RNA	23	9	32	0.28125	2	1	1	0.8036	1	0.8036	0.8036	False	0.7	2.0
+12	104517193	T	C	NFYB	Silent	30	3	33	0.09090909090909091	1	1	0	0.1688	1	0.1688	0.1688	False	0.7	2.0
+17	74005061	C	T	EVPL	Missense_Mutation	37	18	55	0.32727272727272727	2	1	1	0.9351	1	0.9351	0.9351	True	0.7	2.0

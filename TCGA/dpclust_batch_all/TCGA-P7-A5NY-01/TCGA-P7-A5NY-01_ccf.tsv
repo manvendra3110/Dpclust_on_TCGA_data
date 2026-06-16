@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+3	100328717	C	T	GPR128	Missense_Mutation	46	4	50	0.08	2	1	1	0.2	1	0.2	0.2	False	0.8	1.99
+3	127646684	T	C	KBTBD12	Missense_Mutation	105	5	110	0.045454545454545456	2	1	1	0.1136	1	0.1136	0.1136	False	0.8	1.99
+7	99621184	G	A	ZKSCAN1	Missense_Mutation	52	4	56	0.07142857142857142	2	1	1	0.1786	1	0.1786	0.1786	False	0.8	1.99
+12	44171441	A	G	IRAK4	Missense_Mutation	28	17	45	0.37777777777777777	2	1	1	0.9444	1	0.9444	0.9444	True	0.8	1.99
+17	11642318	G	A	DNAH9	Missense_Mutation	48	4	52	0.07692307692307693	2	1	1	0.1923	1	0.1923	0.1923	False	0.8	1.99
+19	605212	A	G	HCN2	Missense_Mutation	37	9	46	0.1956521739130435	2	1	1	0.4891	1	0.4891	0.4891	False	0.8	1.99

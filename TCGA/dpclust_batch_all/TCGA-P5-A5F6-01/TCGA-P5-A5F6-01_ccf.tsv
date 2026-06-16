@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	220150664	C	T	DNAJB2	3'UTR	24	3	27	0.1111111111111111	1	1	0	0.1414	1	0.1414	0.1414	False	0.88	1.52
+7	91865759	T	C	KRIT1	Silent	23	7	30	0.23333333333333334	1	1	0	0.297	1	0.297	0.297	False	0.88	1.52
+16	55794582	C	T	CES1P1	RNA	25	9	34	0.2647058823529412	2	1	1	0.6016	1	0.6016	0.6016	False	0.88	1.52
+20	24988567	C	T	ACSS1	Missense_Mutation	66	6	72	0.08333333333333333	2	1	1	0.1894	1	0.1894	0.1894	False	0.88	1.52

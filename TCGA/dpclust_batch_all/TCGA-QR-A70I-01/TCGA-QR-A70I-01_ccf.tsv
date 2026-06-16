@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	228464238	C	T	OBSCN	Missense_Mutation	45	3	48	0.0625	2	1	1	0.2083	1	0.2083	0.2083	False	0.6	2.0
+3	42734235	G	A	HHATL	3'UTR	28	3	31	0.0967741935483871	2	1	1	0.3226	1	0.3226	0.3226	False	0.6	2.0
+7	91623993	C	A	AKAP9	Missense_Mutation	46	3	49	0.061224489795918366	2	1	1	0.2041	1	0.2041	0.2041	False	0.6	2.0
+9	5069080	A	C	JAK2	Missense_Mutation	35	20	55	0.36363636363636365	2	1	1	1.2121	1	1.2121	1.0	True	0.6	2.0
+10	1175299	C	A	WDR37	3'UTR	46	3	49	0.061224489795918366	2	1	1	0.2041	1	0.2041	0.2041	False	0.6	2.0
+11	124761327	G	A	ROBO4	Missense_Mutation	12	12	24	0.5	2	1	1	1.6667	1	1.6667	1.0	True	0.6	2.0

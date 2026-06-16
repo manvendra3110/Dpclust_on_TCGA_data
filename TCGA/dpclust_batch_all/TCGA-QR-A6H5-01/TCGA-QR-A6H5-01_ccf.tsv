@@ -1,0 +1,9 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	73675507	C	T	ALMS1	Missense_Mutation	126	28	154	0.18181818181818182	2	1	1	0.6861	1	0.6861	0.6861	False	0.53	1.88
+3	10191489	G	A	VHL	Missense_Mutation	20	10	30	0.3333333333333333	1	1	0	0.9245	1	0.9245	0.9245	True	0.53	1.88
+6	33147561	C	G	COL11A2	Missense_Mutation	47	3	50	0.06	2	1	1	0.2264	1	0.2264	0.2264	False	0.53	1.88
+15	68581943	A	G	FEM1B	Splice_Site	25	7	32	0.21875	2	1	1	0.8255	1	0.8255	0.8255	False	0.53	1.88
+20	56730543	A	G	C20orf85	Missense_Mutation	47	9	56	0.16071428571428573	2	1	1	0.6065	1	0.6065	0.6065	False	0.53	1.88
+20	62698311	G	A	TCEA2	Missense_Mutation	21	4	25	0.16	2	1	1	0.6038	1	0.6038	0.6038	False	0.53	1.88
+21	18937753	G	A	CXADR	Missense_Mutation	55	14	69	0.2028985507246377	2	1	1	0.7657	1	0.7657	0.7657	False	0.53	1.88
+21	44837473	G	A	SIK1	Silent	7	4	11	0.36363636363636365	2	1	1	1.3722	1	1.3722	1.0	True	0.53	1.88

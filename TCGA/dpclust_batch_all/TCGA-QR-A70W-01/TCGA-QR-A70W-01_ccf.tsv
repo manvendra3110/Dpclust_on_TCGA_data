@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	234243689	C	T	SAG	Silent	30	22	52	0.4230769230769231	2	1	1	0.9298	1	0.9298	0.9298	True	0.91	1.87
+5	162009	A	G	PLEKHG4B	Missense_Mutation	25	7	32	0.21875	2	1	1	0.4808	1	0.4808	0.4808	False	0.91	1.87
+6	48036151	C	T	PTCHD4	Missense_Mutation	47	3	50	0.06	2	1	1	0.1319	1	0.1319	0.1319	False	0.91	1.87
+11	533874	T	C	HRAS	Missense_Mutation	39	19	58	0.3275862068965517	2	1	1	0.72	1	0.72	0.72	False	0.91	1.87
+20	43804501	G	A	PI3	Splice_Site	79	5	84	0.05952380952380952	2	1	1	0.1308	1	0.1308	0.1308	False	0.91	1.87

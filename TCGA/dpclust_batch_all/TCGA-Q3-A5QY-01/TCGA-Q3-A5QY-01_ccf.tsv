@@ -1,0 +1,2 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	170814986	C	T	UBR3	Missense_Mutation	567	21	588	0.03571428571428571	2	1	1	0.1786	1	0.1786	0.1786	False	0.4	2.0

@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	17696549	T	C	RAD51AP2	Missense_Mutation	64	4	68	0.058823529411764705	1	1	0	0.1069	1	0.1069	0.1069	False	0.71	1.97
+7	16818665	C	T	TSPAN13	Missense_Mutation	65	18	83	0.21686746987951808	3	2	1	0.8278	1	0.8278	0.8278	False	0.71	1.97
+13	35644944	T	C	NBEA	Missense_Mutation	64	12	76	0.15789473684210525	2	1	1	0.4448	1	0.4448	0.4448	False	0.71	1.97
+16	14972620	T	C	NOMO1	Missense_Mutation	172	17	189	0.08994708994708994	2	1	1	0.2534	1	0.2534	0.2534	False	0.71	1.97
