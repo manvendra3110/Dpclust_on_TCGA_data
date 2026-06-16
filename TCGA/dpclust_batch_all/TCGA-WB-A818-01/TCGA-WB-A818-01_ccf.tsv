@@ -1,0 +1,10 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	228596776	G	C	TRIM17	Intron	22	9	31	0.2903225806451613	2	1	1	0.7742	1	0.7742	0.7742	False	0.75	1.9
+9	127915922	G	A	PPP6C	Missense_Mutation	50	4	54	0.07407407407407407	2	1	1	0.1975	1	0.1975	0.1975	False	0.75	1.9
+10	35103910	A	G	PARD3	Missense_Mutation	12	4	16	0.25	2	1	1	0.6667	1	0.6667	0.6667	False	0.75	1.9
+10	97131803	G	A	SORBS1	Missense_Mutation	12	8	20	0.4	2	1	1	1.0667	1	1.0667	1.0	True	0.75	1.9
+14	64685207	C	T	SYNE2	Missense_Mutation	12	3	15	0.2	2	1	1	0.5333	1	0.5333	0.5333	False	0.75	1.9
+16	3306389	C	T	MEFV	Missense_Mutation	40	16	56	0.2857142857142857	2	1	1	0.7619	1	0.7619	0.7619	False	0.75	1.9
+17	10305000	C	T	MYH8	Missense_Mutation	95	8	103	0.07766990291262135	1	1	0	0.1294	1	0.1294	0.1294	False	0.75	1.9
+19	36004008	C	T	DMKN	Missense_Mutation	9	9	18	0.5	2	1	1	1.3333	1	1.3333	1.0	True	0.75	1.9
+X	40990708	A	G	USP9X	Splice_Site	49	3	52	0.057692307692307696	2	1	1	0.1538	1	0.1538	0.1538	False	0.75	1.9

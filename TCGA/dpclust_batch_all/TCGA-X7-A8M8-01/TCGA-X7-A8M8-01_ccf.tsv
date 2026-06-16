@@ -1,0 +1,8 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	167973157	A	T	DCAF6	Missense_Mutation	82	5	87	0.05747126436781609	2	1	1	0.3592	1	0.3592	0.3592	False	0.32	2.0
+7	74146970	T	A	GTF2I	Missense_Mutation	397	17	414	0.04106280193236715	2	1	1	0.2566	1	0.2566	0.2566	False	0.32	2.0
+7	151504040	A	G	PRKAG2	Intron	21	3	24	0.125	2	1	1	0.7812	1	0.7812	0.7812	False	0.32	2.0
+14	24605510	G	T	PSME1	Missense_Mutation	7	4	11	0.36363636363636365	2	1	1	2.2727	1	2.2727	1.0	True	0.32	2.0
+16	2481144	G	A	CCNF	Silent	73	4	77	0.05194805194805195	2	1	1	0.3247	1	0.3247	0.3247	False	0.32	2.0
+X	15342893	T	C	PIGA	Missense_Mutation	43	3	46	0.06521739130434782	2	1	1	0.4076	1	0.4076	0.4076	False	0.32	2.0
+X	120094438	G	A	CT47A6	Silent	62	6	68	0.08823529411764706	2	1	1	0.5515	1	0.5515	0.5515	False	0.32	2.0

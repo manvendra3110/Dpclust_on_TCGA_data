@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+5	161580306	C	T	GABRG2	Missense_Mutation	154	8	162	0.04938271604938271	2	1	1	0.1008	1	0.1008	0.1008	False	0.98	2.0
+6	157502129	G	A	ARID1B	Silent	49	3	52	0.057692307692307696	2	1	1	0.1177	1	0.1177	0.1177	False	0.98	2.0
+9	90343270	G	T	CTSL	Missense_Mutation	69	6	75	0.08	2	1	1	0.1633	1	0.1633	0.1633	False	0.98	2.0
+9	104239325	C	T	TMEM246	Missense_Mutation	38	4	42	0.09523809523809523	2	1	1	0.1944	1	0.1944	0.1944	False	0.98	2.0
+12	33529773	T	A	SYT10	Missense_Mutation	44	3	47	0.06382978723404255	2	1	1	0.1303	1	0.1303	0.1303	False	0.98	2.0

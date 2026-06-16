@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+3	148884979	G	A	HPS3	Silent	42	3	45	0.06666666666666667	2	1	1	0.2667	1	0.2667	0.2667	False	0.5	2.02
+5	140236812	G	A	PCDHA10	Silent	49	8	57	0.14035087719298245	2	1	1	0.5614	1	0.5614	0.5614	False	0.5	2.02
+15	99903465	C	A	LRRC28	Missense_Mutation	44	4	48	0.08333333333333333	2	1	1	0.3333	1	0.3333	0.3333	False	0.5	2.02
+17	78333905	A	T	RNF213	Missense_Mutation	15	5	20	0.25	2	1	1	1.0	1	1.0	1.0	True	0.5	2.02
+X	154493536	A	C	RAB39B	Missense_Mutation	34	3	37	0.08108108108108109	2	1	1	0.3243	1	0.3243	0.3243	False	0.5	2.02

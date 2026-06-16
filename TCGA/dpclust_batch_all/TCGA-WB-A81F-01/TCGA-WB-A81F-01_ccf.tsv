@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	89528883	C	T	GBP1	Missense_Mutation	34	45	79	0.569620253164557	1	1	0	0.9099	1	0.9099	0.9099	True	0.77	1.89
+3	52552363	C	A	STAB1	Missense_Mutation	17	4	21	0.19047619047619047	2	1	1	0.4947	1	0.4947	0.4947	False	0.77	1.89
+8	28997654	T	C	KIF13B	Missense_Mutation	10	6	16	0.375	2	1	1	0.974	1	0.974	0.974	True	0.77	1.89
+10	131639196	A	G	EBF3	Silent	83	12	95	0.12631578947368421	2	1	1	0.3281	1	0.3281	0.3281	False	0.77	1.89
+11	3680432	A	G	ART1	5'UTR	7	10	17	0.5882352941176471	2	1	1	1.5279	1	1.5279	1.0	True	0.77	1.89
+11	117280555	T	G	CEP164	Missense_Mutation	104	12	116	0.10344827586206896	2	1	1	0.2687	1	0.2687	0.2687	False	0.77	1.89

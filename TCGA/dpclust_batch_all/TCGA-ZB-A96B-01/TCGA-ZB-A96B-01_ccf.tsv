@@ -1,0 +1,9 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	185126088	C	T	TRMT1L	5'UTR	27	3	30	0.1	2	1	1	1.0	1	1.0	1.0	True	0.2	2.0
+1	237550618	C	T	RYR2	Missense_Mutation	33	3	36	0.08333333333333333	2	1	1	0.8333	1	0.8333	0.8333	False	0.2	2.0
+2	44102286	T	C	ABCG8	Missense_Mutation	28	3	31	0.0967741935483871	2	1	1	0.9677	1	0.9677	0.9677	True	0.2	2.0
+2	132021562	C	A	POTEE	Missense_Mutation	77	6	83	0.07228915662650602	2	1	1	0.7229	1	0.7229	0.7229	False	0.2	2.0
+6	16328368	C	T	ATXN1	Silent	56	4	60	0.06666666666666667	2	1	1	0.6667	1	0.6667	0.6667	False	0.2	2.0
+6	32821212	G	T	TAP1	Missense_Mutation	11	3	14	0.21428571428571427	2	1	1	2.1429	1	2.1429	1.0	True	0.2	2.0
+7	74146970	T	A	GTF2I	Missense_Mutation	514	19	533	0.03564727954971857	2	1	1	0.3565	1	0.3565	0.3565	False	0.2	2.0
+9	135668042	C	T	AK8	Missense_Mutation	52	6	58	0.10344827586206896	2	1	1	1.0345	1	1.0345	1.0	True	0.2	2.0

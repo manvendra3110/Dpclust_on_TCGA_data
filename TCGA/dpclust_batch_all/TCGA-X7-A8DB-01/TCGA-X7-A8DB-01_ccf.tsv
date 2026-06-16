@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	185266810	T	C	IVNS1ABP	3'UTR	82	4	86	0.046511627906976744	2	1	1	0.3208	1	0.3208	0.3208	False	0.29	2.0
+7	42950385	A	T	C7orf25	Missense_Mutation	22	4	26	0.15384615384615385	2	1	1	1.061	1	1.061	1.0	True	0.29	2.0
+7	150817216	G	T	AGAP3	Missense_Mutation	12	4	16	0.25	2	1	1	1.7241	1	1.7241	1.0	True	0.29	2.0
+14	77942097	A	T	ISM2	Silent	42	3	45	0.06666666666666667	2	1	1	0.4598	1	0.4598	0.4598	False	0.29	2.0
+18	66504269	A	G	CCDC102B	Missense_Mutation	38	3	41	0.07317073170731707	2	1	1	0.5046	1	0.5046	0.5046	False	0.29	2.0
+20	62221124	C	T	GMEB2	3'UTR	21	3	24	0.125	2	1	1	0.8621	1	0.8621	0.8621	True	0.29	2.0

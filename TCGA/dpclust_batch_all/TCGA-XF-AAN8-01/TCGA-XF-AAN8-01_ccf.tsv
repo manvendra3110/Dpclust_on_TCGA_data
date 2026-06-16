@@ -1,0 +1,3 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+16	70954659	T	C	HYDIN	Silent	7	4	11	0.36363636363636365	2	1	1	1.2539	1	1.2539	1.0	True	0.58	2.0
+17	62568009	G	A	SMURF2	Missense_Mutation	32	3	35	0.08571428571428572	2	1	1	0.2956	1	0.2956	0.2956	False	0.58	2.0

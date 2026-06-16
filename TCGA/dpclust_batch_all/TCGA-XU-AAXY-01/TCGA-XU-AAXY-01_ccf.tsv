@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+6	73111870	T	A	RIMS1	3'Flank	23	3	26	0.11538461538461539	2	1	1	0.7212	1	0.7212	0.7212	False	0.32	2.0
+7	146805383	A	T	CNTNAP2	Missense_Mutation	78	5	83	0.060240963855421686	2	1	1	0.3765	1	0.3765	0.3765	False	0.32	2.0
+13	25281292	C	T	ATP12A	Silent	28	4	32	0.125	2	1	1	0.7812	1	0.7812	0.7812	False	0.32	2.0
+14	23762782	G	A	PPP1R3E	3'Flank	23	3	26	0.11538461538461539	2	1	1	0.7212	1	0.7212	0.7212	False	0.32	2.0
+14	67859128	T	C	PLEK2	Missense_Mutation	46	3	49	0.061224489795918366	2	1	1	0.3827	1	0.3827	0.3827	False	0.32	2.0
+17	40961632	G	T	CNTD1	3'UTR	21	4	25	0.16	2	1	1	1.0	1	1.0	1.0	True	0.32	2.0

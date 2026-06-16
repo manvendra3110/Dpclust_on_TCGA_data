@@ -1,0 +1,2 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+5	19473162	C	T	CDH18	3'UTR	27	15	42	0.35714285714285715	2	1	1	1.6234	1	1.6234	1.0	True	0.44	2.0

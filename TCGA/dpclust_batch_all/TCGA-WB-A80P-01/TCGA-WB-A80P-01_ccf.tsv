@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	27238482	C	A	NR0B2	Missense_Mutation	36	3	39	0.07692307692307693	1	1	0	0.1229	1	0.1229	0.1229	False	0.77	1.95
+1	186106627	C	A	HMCN1	Intron	21	4	25	0.16	2	1	1	0.4156	1	0.4156	0.4156	False	0.77	1.95
+3	21462776	G	A	ZNF385D	Missense_Mutation	24	7	31	0.22580645161290322	2	1	1	0.5865	1	0.5865	0.5865	False	0.77	1.95
+3	52812034	G	A	ITIH1	Splice_Site	52	30	82	0.36585365853658536	2	1	1	0.9503	1	0.9503	0.9503	True	0.77	1.95
+8	10480359	C	T	RP1L1	Missense_Mutation	18	9	27	0.3333333333333333	2	1	1	0.8658	1	0.8658	0.8658	True	0.77	1.95
+15	43483811	G	C	CCNDBP1	Silent	21	20	41	0.4878048780487805	2	1	1	1.267	1	1.267	1.0	True	0.77	1.95
