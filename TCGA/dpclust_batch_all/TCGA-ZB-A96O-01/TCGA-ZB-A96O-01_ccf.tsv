@@ -1,0 +1,4 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+6	152558014	G	T	SYNE1	Missense_Mutation	18	4	22	0.18181818181818182	2	1	1	1.2987	1	1.2987	1.0	True	0.28	2.0
+14	56233013	G	A	RP11-813I20.2	Intron	25	3	28	0.10714285714285714	2	1	1	0.7653	1	0.7653	0.7653	False	0.28	2.0
+X	10588516	G	A	MID1	5'UTR	34	3	37	0.08108108108108109	2	1	1	0.5792	1	0.5792	0.5792	False	0.28	2.0
