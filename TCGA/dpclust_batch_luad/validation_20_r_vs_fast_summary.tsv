@@ -1,0 +1,2 @@
+samples_requested	samples_succeeded	samples_failed	mean_pearson	median_pearson	mean_spearman	median_spearman	mean_mae	median_mae	mean_rmse	median_rmse	mean_overlap_rate
+20	0	20	NA	NA	NA	NA	NA	NA	NA	NA	NA

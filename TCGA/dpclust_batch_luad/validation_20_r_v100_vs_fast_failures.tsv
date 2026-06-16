@@ -1,0 +1,3 @@
+sample_id	stage	error
+TCGA-05-4402-01	run_or_compare	No overlapping loci between old dpclust3p and fast output
+TCGA-05-4422-01	run_or_compare	No overlapping loci between old dpclust3p and fast output

@@ -1,0 +1,3 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+6	41126487	T	A	TREM2	3'UTR	63	4	67	0.05970149253731343	2	1	1	0.2596	1	0.2596	0.2596	False	0.46	2.0
+14	93685006	G	A	UBR7	Silent	102	6	108	0.05555555555555555	2	1	1	0.2415	1	0.2415	0.2415	False	0.46	2.0

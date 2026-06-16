@@ -1,0 +1,4 @@
+chr	start	end	WT.count	mut.count	subclonal.CN	nMaj1	nMin1	frac1	nMaj2	nMin2	frac2	phase	mutation.copy.number	subclonal.fraction	no.chrs.bearing.mut
+10	69299303	69299304	52	3	2	1	1	1	NA	NA	NA	unphased	0.170454545454545	0.170454545454545	1
+19	7795021	7795022	21	4	2	1	1	1	NA	NA	NA	unphased	0.5	0.5	1
+22	36123091	36123092	31	3	2	1	1	1	NA	NA	NA	unphased	0.275735294117647	0.275735294117647	1

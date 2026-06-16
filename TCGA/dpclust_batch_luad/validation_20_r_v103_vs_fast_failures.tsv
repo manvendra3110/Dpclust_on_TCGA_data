@@ -1,0 +1,21 @@
+sample_id	stage	error
+TCGA-05-4244-01	run_or_compare	the condition has length > 1
+TCGA-05-4249-01	run_or_compare	the condition has length > 1
+TCGA-05-4250-01	run_or_compare	the condition has length > 1
+TCGA-05-4382-01	run_or_compare	the condition has length > 1
+TCGA-05-4384-01	run_or_compare	the condition has length > 1
+TCGA-05-4389-01	run_or_compare	the condition has length > 1
+TCGA-05-4390-01	run_or_compare	the condition has length > 1
+TCGA-05-4395-01	run_or_compare	the condition has length > 1
+TCGA-05-4396-01	run_or_compare	the condition has length > 1
+TCGA-05-4397-01	run_or_compare	the condition has length > 1
+TCGA-05-4398-01	run_or_compare	the condition has length > 1
+TCGA-05-4402-01	run_or_compare	the condition has length > 1
+TCGA-05-4403-01	run_or_compare	the condition has length > 1
+TCGA-05-4405-01	run_or_compare	the condition has length > 1
+TCGA-05-4410-01	run_or_compare	the condition has length > 1
+TCGA-05-4415-01	run_or_compare	the condition has length > 1
+TCGA-05-4417-01	run_or_compare	the condition has length > 1
+TCGA-05-4418-01	run_or_compare	the condition has length > 1
+TCGA-05-4420-01	run_or_compare	the condition has length > 1
+TCGA-05-4422-01	run_or_compare	the condition has length > 1

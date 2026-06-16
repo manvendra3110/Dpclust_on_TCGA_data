@@ -1,0 +1,2 @@
+samples_requested	samples_succeeded	samples_failed	mean_pearson	median_pearson	mean_spearman	median_spearman	mean_mae	median_mae	mean_rmse	median_rmse	mean_overlap_rate
+20	18	2	0.443211106560208	0.752304858311694	0.338888200349996	0.567669956344232	0.121609000135053	0.12610763735159	0.166664770566522	0.170380315888598	0.0144654110184806

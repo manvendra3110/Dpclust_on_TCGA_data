@@ -1,0 +1,8 @@
+sample	stage	error
+TCGA-50-5066-02	input_dir	missing input sample directory
+TCGA-50-5946-02	input_dir	missing input sample directory
+TCGA-64-1677-01	input_dir	missing input sample directory
+TCGA-67-3772-01	input_dir	missing input sample directory
+TCGA-75-7030-01	input_dir	missing input sample directory
+TCGA-78-8648-01	input_dir	missing input sample directory
+TCGA-86-A4D0-01	input_dir	missing input sample directory
