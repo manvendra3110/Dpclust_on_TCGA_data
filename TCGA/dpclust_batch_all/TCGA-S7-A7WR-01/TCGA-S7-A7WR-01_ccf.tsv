@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	201195003	C	T	IGFN1	Missense_Mutation	17	11	28	0.39285714285714285	2	1	1	0.9582	1	0.9582	0.9582	True	0.82	1.75
+5	61668287	C	T	KIF2A	Missense_Mutation	21	4	25	0.16	2	1	1	0.3902	1	0.3902	0.3902	False	0.82	1.75
+6	38841074	C	T	DNAH8	Silent	100	5	105	0.047619047619047616	2	1	1	0.1161	1	0.1161	0.1161	False	0.82	1.75
+11	533875	G	T	HRAS	Missense_Mutation	58	28	86	0.32558139534883723	2	1	1	0.7941	1	0.7941	0.7941	False	0.82	1.75

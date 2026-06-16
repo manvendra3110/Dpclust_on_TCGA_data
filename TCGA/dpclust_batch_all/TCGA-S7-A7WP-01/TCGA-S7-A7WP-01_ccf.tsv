@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+6	44250125	T	G	TCTE1	Missense_Mutation	69	17	86	0.19767441860465115	2	1	1	0.6589	1	0.6589	0.6589	False	0.6	1.88
+11	103043978	C	T	DYNC2H1	Silent	17	4	21	0.19047619047619047	1	1	0	0.4444	1	0.4444	0.4444	False	0.6	1.88
+12	72032295	G	A	ZFC3H1	Missense_Mutation	23	8	31	0.25806451612903225	2	1	1	0.8602	1	0.8602	0.8602	True	0.6	1.88
+17	72436724	A	T	GPRC5C	Missense_Mutation	53	3	56	0.05357142857142857	2	1	1	0.1786	1	0.1786	0.1786	False	0.6	1.88

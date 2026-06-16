@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	215823955	G	A	USH2A	Silent	25	16	41	0.3902439024390244	2	1	1	0.8971	1	0.8971	0.8971	True	0.87	1.95
+2	26203255	G	A	KIF3C	Missense_Mutation	22	3	25	0.12	2	1	1	0.2759	1	0.2759	0.2759	False	0.87	1.95
+2	242815470	G	C	CXXC11	3'UTR	43	4	47	0.0851063829787234	2	1	1	0.1956	1	0.1956	0.1956	False	0.87	1.95
+3	172642091	G	A	SPATA16	Silent	57	7	64	0.109375	2	1	1	0.2514	1	0.2514	0.2514	False	0.87	1.95
+6	30633377	C	T	DHX16	Missense_Mutation	44	3	47	0.06382978723404255	2	1	1	0.1467	1	0.1467	0.1467	False	0.87	1.95

@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	186315295	C	T	TPR	Missense_Mutation	45	15	60	0.25	2	1	1	0.5814	1	0.5814	0.5814	False	0.86	1.92
+2	99778810	G	A	LIPT1	Silent	74	6	80	0.075	2	1	1	0.1744	1	0.1744	0.1744	False	0.86	1.92
+6	112397154	G	A	TUBE1	Silent	82	54	136	0.39705882352941174	2	1	1	0.9234	1	0.9234	0.9234	True	0.86	1.92
+6	161137789	C	T	PLG	Missense_Mutation	46	3	49	0.061224489795918366	2	1	1	0.1424	1	0.1424	0.1424	False	0.86	1.92
+7	157060410	C	G	UBE3C	Silent	37	30	67	0.44776119402985076	2	1	1	1.0413	1	1.0413	1.0	True	0.86	1.92
+11	117090363	G	A	PCSK7	Missense_Mutation	23	10	33	0.30303030303030304	2	1	1	0.7047	1	0.7047	0.7047	False	0.86	1.92

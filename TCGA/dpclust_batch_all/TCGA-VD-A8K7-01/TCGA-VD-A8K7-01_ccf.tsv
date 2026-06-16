@@ -1,0 +1,8 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	16531277	G	T	ARHGEF19	Nonsense_Mutation	23	4	27	0.14814814814814814	2	1	1	0.2963	1	0.2963	0.2963	False	1.0	2.05
+1	68697988	C	T	WLS	5'UTR	19	3	22	0.13636363636363635	2	1	1	0.2727	1	0.2727	0.2727	False	1.0	2.05
+4	66242760	C	A	EPHA5	Silent	7	4	11	0.36363636363636365	2	1	1	0.7273	1	0.7273	0.7273	False	1.0	2.05
+6	152527476	G	A	SYNE1	Missense_Mutation	57	3	60	0.05	2	1	1	0.1	1	0.1	0.1	False	1.0	2.05
+7	23651026	A	G	CCDC126	Missense_Mutation	30	28	58	0.4827586206896552	2	1	1	0.9655	1	0.9655	0.9655	True	1.0	2.05
+7	23651027	C	T	CCDC126	Silent	30	27	57	0.47368421052631576	2	1	1	0.9474	1	0.9474	0.9474	True	1.0	2.05
+9	80409488	T	A	GNAQ	Missense_Mutation	44	29	73	0.3972602739726027	2	1	1	0.7945	1	0.7945	0.7945	False	1.0	2.05

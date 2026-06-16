@@ -1,0 +1,8 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	28282678	C	A	SMPDL3B	Intron	17	4	21	0.19047619047619047	1	1	0	0.2474	1	0.2474	0.2474	False	0.87	1.91
+1	183933121	T	C	COLGALT2	Missense_Mutation	30	9	39	0.23076923076923078	2	1	1	0.5305	1	0.5305	0.5305	False	0.87	1.91
+2	27355237	G	A	PREB	Nonsense_Mutation	33	6	39	0.15384615384615385	2	1	1	0.3537	1	0.3537	0.3537	False	0.87	1.91
+6	151790032	G	A	C6orf211	Silent	61	17	78	0.21794871794871795	2	1	1	0.501	1	0.501	0.501	False	0.87	1.91
+12	116413346	G	A	MED13L	Silent	46	3	49	0.061224489795918366	2	1	1	0.1407	1	0.1407	0.1407	False	0.87	1.91
+15	65678300	C	G	IGDCC4	Missense_Mutation	31	9	40	0.225	2	1	1	0.5172	1	0.5172	0.5172	False	0.87	1.91
+19	3600626	G	A	TBXA2R	Missense_Mutation	17	3	20	0.15	2	1	1	0.3448	1	0.3448	0.3448	False	0.87	1.91

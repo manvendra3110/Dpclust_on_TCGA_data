@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	13910449	G	C	PDPN	Missense_Mutation	13	7	20	0.35	2	1	1	0.875	1	0.875	0.875	True	0.8	2.0
+3	52406913	C	T	DNAH1	Missense_Mutation	63	24	87	0.27586206896551724	2	1	1	0.6897	1	0.6897	0.6897	False	0.8	2.0
+5	137518596	G	A	KIF20A	Missense_Mutation	38	3	41	0.07317073170731707	2	1	1	0.1829	1	0.1829	0.1829	False	0.8	2.0
+5	176798390	G	A	RGS14	Missense_Mutation	67	5	72	0.06944444444444445	2	1	1	0.1736	1	0.1736	0.1736	False	0.8	2.0
+6	110036319	A	G	FIG4	Silent	35	26	61	0.4262295081967213	2	1	1	1.0656	1	1.0656	1.0	True	0.8	2.0
+11	55890333	C	T	OR8H3	Missense_Mutation	104	41	145	0.2827586206896552	1	1	0	0.4241	1	0.4241	0.4241	False	0.8	2.0

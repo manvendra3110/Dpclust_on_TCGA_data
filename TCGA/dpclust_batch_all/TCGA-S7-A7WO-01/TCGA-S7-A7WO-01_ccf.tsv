@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	45480006	G	A	UROD	Intron	24	3	27	0.1111111111111111	2	1	1	0.4444	1	0.4444	0.4444	False	0.5	2.0
+2	1241771	G	A	SNTG2	Silent	6	8	14	0.5714285714285714	2	1	1	2.2857	1	2.2857	1.0	True	0.5	2.0
+3	52282461	G	T	PPM1M	Missense_Mutation	21	4	25	0.16	2	1	1	0.64	1	0.64	0.64	False	0.5	2.0
+19	51628487	G	A	SIGLEC9	Missense_Mutation	87	5	92	0.05434782608695652	2	1	1	0.2174	1	0.2174	0.2174	False	0.5	2.0
+X	70823569	G	C	ACRC	Missense_Mutation	273	9	282	0.031914893617021274	2	1	1	0.1277	1	0.1277	0.1277	False	0.5	2.0
