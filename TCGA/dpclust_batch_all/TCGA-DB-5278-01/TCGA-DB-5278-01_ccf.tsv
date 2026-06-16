@@ -1,0 +1,8 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	220387224	C	T	RAB3GAP2	Missense_Mutation	61	24	85	0.2823529411764706	2	1	1	0.724	1	0.724	0.724	False	0.78	1.95
+2	209113112	C	T	IDH1	Missense_Mutation	71	46	117	0.39316239316239315	2	1	1	1.0081	1	1.0081	1.0	True	0.78	1.95
+10	29770516	G	T	SVIL	Missense_Mutation	380	200	580	0.3448275862068966	2	1	1	0.8842	1	0.8842	0.8842	True	0.78	1.95
+17	79172021	C	A	AZI1	Missense_Mutation	20	4	24	0.16666666666666666	2	1	1	0.4274	1	0.4274	0.4274	False	0.78	1.95
+19	33355655	T	G	SLC7A9	Missense_Mutation	64	83	147	0.564625850340136	1	1	0	0.8831	1	0.8831	0.8831	True	0.78	1.95
+19	42791743	T	G	CIC	Missense_Mutation	37	41	78	0.5256410256410257	1	1	0	0.8222	1	0.8222	0.8222	False	0.78	1.95
+19	42799060	G	A	CIC	Missense_Mutation	46	4	50	0.08	1	1	0	0.1251	1	0.1251	0.1251	False	0.78	1.95

@@ -1,0 +1,9 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	215955459	C	A	USH2A	Missense_Mutation	50	9	59	0.15254237288135594	2	1	1	1.6949	1	1.6949	1.0	True	0.18	2.08
+3	38592533	A	G	SCN5A	Missense_Mutation	46	4	50	0.08	2	1	1	0.8889	1	0.8889	0.8889	True	0.18	2.08
+5	35065449	G	T	PRLR	Silent	37	8	45	0.17777777777777778	2	1	1	1.9753	1	1.9753	1.0	True	0.18	2.08
+5	134364604	G	T	PITX1	Silent	28	3	31	0.0967741935483871	2	1	1	1.0753	1	1.0753	1.0	True	0.18	2.08
+6	56044546	G	A	COL21A1	Missense_Mutation	40	5	45	0.1111111111111111	2	1	1	1.2346	1	1.2346	1.0	True	0.18	2.08
+7	140481402	C	G	BRAF	Missense_Mutation	88	10	98	0.10204081632653061	2	2	1	1.1338	1	1.1338	1.0	True	0.18	2.08
+10	115531817	A	C	PLEKHS1	Missense_Mutation	80	7	87	0.08045977011494253	2	1	1	0.894	1	0.894	0.894	True	0.18	2.08
+14	101004687	G	C	BEGAIN	Silent	17	3	20	0.15	2	1	1	1.6667	1	1.6667	1.0	True	0.18	2.08
