@@ -1,0 +1,8 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	185802431	C	T	ZNF804A	Nonsense_Mutation	70	17	87	0.19540229885057472	2	1	1	0.6856	1	0.6856	0.6856	False	0.57	2.0
+5	10414577	A	G	MARCH6	Silent	91	4	95	0.042105263157894736	2	1	1	0.1477	1	0.1477	0.1477	False	0.57	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	50	29	79	0.3670886075949367	2	1	1	1.288	1	1.288	1.0	True	0.57	2.0
+9	97084601	G	A	NUTM2F	Nonsense_Mutation	47	4	51	0.0784313725490196	2	1	1	0.2752	1	0.2752	0.2752	False	0.57	2.0
+10	96701709	T	C	CYP2C9	Missense_Mutation	165	14	179	0.0782122905027933	2	1	1	0.2744	1	0.2744	0.2744	False	0.57	2.0
+11	123811251	G	T	OR4D5	Missense_Mutation	46	24	70	0.34285714285714286	2	1	1	1.203	1	1.203	1.0	True	0.57	2.0
+20	46313295	C	T	SULF2	Silent	36	3	39	0.07692307692307693	2	1	1	0.2699	1	0.2699	0.2699	False	0.57	2.0

@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+4	55573316	C	T	KIT	Silent	11	6	17	0.35294117647058826	2	1	1	1.6807	1	1.6807	1.0	True	0.42	2.0
+5	5235247	C	A	ADAMTS16	Missense_Mutation	35	3	38	0.07894736842105263	2	1	1	0.3759	1	0.3759	0.3759	False	0.42	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	37	11	48	0.22916666666666666	2	1	1	1.0913	1	1.0913	1.0	True	0.42	2.0
+10	17373483	C	T	ST8SIA6	Missense_Mutation	26	3	29	0.10344827586206896	2	1	1	0.4926	1	0.4926	0.4926	False	0.42	2.0
+19	15533868	G	A	WIZ	3'UTR	30	8	38	0.21052631578947367	2	1	1	1.0025	1	1.0025	1.0	True	0.42	2.0

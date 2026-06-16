@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	17927101	G	A	SMC6	Missense_Mutation	34	4	38	0.10526315789473684	2	1	1	1.0526	1	1.0526	1.0	True	0.2	2.06
+2	241653282	G	A	KIF1A	3'UTR	32	4	36	0.1111111111111111	2	1	1	1.1111	1	1.1111	1.0	True	0.2	2.06
+9	133779553	G	A	FIBCD1	Silent	19	3	22	0.13636363636363635	2	1	1	1.3636	1	1.3636	1.0	True	0.2	2.06
+12	57346713	C	T	RDH16	Missense_Mutation	23	8	31	0.25806451612903225	2	1	1	2.5806	1	2.5806	1.0	True	0.2	2.06

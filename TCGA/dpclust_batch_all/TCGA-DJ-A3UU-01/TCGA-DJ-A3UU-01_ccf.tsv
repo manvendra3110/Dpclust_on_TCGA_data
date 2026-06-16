@@ -1,0 +1,8 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+7	140453136	A	T	BRAF	Missense_Mutation	80	32	112	0.2857142857142857	2	1	1	1.1662	1	1.1662	1.0	True	0.49	2.0
+8	42716925	T	G	RNF170	Missense_Mutation	76	19	95	0.2	2	1	1	0.8163	1	0.8163	0.8163	False	0.49	2.0
+17	43923926	G	A	SPPL2C	Missense_Mutation	59	3	62	0.04838709677419355	2	1	1	0.1975	1	0.1975	0.1975	False	0.49	2.0
+19	11470205	C	T	DKFZP761J1410	Intron	73	24	97	0.24742268041237114	2	1	1	1.0099	1	1.0099	1.0	True	0.49	2.0
+X	19369470	C	T	PDHA1	Silent	231	12	243	0.04938271604938271	2	1	1	0.2016	1	0.2016	0.2016	False	0.49	2.0
+X	69502665	T	C	RAB41	Missense_Mutation	229	8	237	0.03375527426160337	2	1	1	0.1378	1	0.1378	0.1378	False	0.49	2.0
+X	110952238	G	A	ALG13	Missense_Mutation	6	8	14	0.5714285714285714	2	1	1	2.3324	1	2.3324	1.0	True	0.49	2.0

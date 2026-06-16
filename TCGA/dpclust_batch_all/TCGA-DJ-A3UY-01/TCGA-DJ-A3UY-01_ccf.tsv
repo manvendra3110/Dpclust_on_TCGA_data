@@ -1,0 +1,4 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	226108103	G	A	PYCR2	3'UTR	23	11	34	0.3235294117647059	2	1	1	1.7028	1	1.7028	1.0	True	0.38	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	65	22	87	0.25287356321839083	2	1	1	1.3309	1	1.3309	1.0	True	0.38	2.0
+15	43678506	G	A	TUBGCP4	Missense_Mutation	97	29	126	0.23015873015873015	2	1	1	1.2114	1	1.2114	1.0	True	0.38	2.0

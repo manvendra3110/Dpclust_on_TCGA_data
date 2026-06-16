@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	62132935	C	A	COMMD1	Missense_Mutation	52	4	56	0.07142857142857142	2	1	1	0.1429	1	0.1429	0.1429	False	1.0	2.0
+2	86297188	C	T	POLR1A	Missense_Mutation	15	21	36	0.5833333333333334	2	1	1	1.1667	1	1.1667	1.0	True	1.0	2.0
+4	178283471	A	G	NEIL3	Missense_Mutation	75	16	91	0.17582417582417584	2	1	1	0.3516	1	0.3516	0.3516	False	1.0	2.0
+15	43738684	C	A	TP53BP1	Missense_Mutation	90	87	177	0.4915254237288136	2	1	1	0.9831	1	0.9831	0.9831	True	1.0	2.0
+20	31981850	G	A	CDK5RAP1	Missense_Mutation	97	5	102	0.049019607843137254	2	1	1	0.098	1	0.098	0.098	False	1.0	2.0

@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	115524063	G	A	SYCP1	Missense_Mutation	83	4	87	0.04597701149425287	2	1	1	0.0938	1	0.0938	0.0938	False	0.98	2.05
+1	176132079	G	A	RFWD2	Nonsense_Mutation	75	8	83	0.0963855421686747	2	1	1	0.1967	1	0.1967	0.1967	False	0.98	2.05
+12	81112720	C	T	MYF5	Missense_Mutation	72	14	86	0.16279069767441862	2	1	1	0.3322	1	0.3322	0.3322	False	0.98	2.05
+21	42779931	G	A	MX2	Missense_Mutation	64	10	74	0.13513513513513514	2	1	1	0.2758	1	0.2758	0.2758	False	0.98	2.05
+22	30858119	C	A	SEC14L3	Missense_Mutation	34	3	37	0.08108108108108109	2	1	1	0.1655	1	0.1655	0.1655	False	0.98	2.05

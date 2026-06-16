@@ -1,0 +1,8 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+3	32932582	G	A	TRIM71	Missense_Mutation	30	3	33	0.09090909090909091	2	1	1	0.1874	1	0.1874	0.1874	False	0.97	2.0
+3	113955140	G	T	ZNF80	Missense_Mutation	97	5	102	0.049019607843137254	2	1	1	0.1011	1	0.1011	0.1011	False	0.97	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	21	21	42	0.5	2	1	1	1.0309	1	1.0309	1.0	True	0.97	2.0
+17	62800992	G	A	PLEKHM1P	RNA	10	8	18	0.4444444444444444	2	1	1	0.9164	1	0.9164	0.9164	True	0.97	2.0
+17	73908312	G	A	FBF1	Silent	19	6	25	0.24	2	1	1	0.4948	1	0.4948	0.4948	False	0.97	2.0
+19	15052786	C	A	OR7C2	Silent	137	90	227	0.3964757709251101	2	1	1	0.8175	1	0.8175	0.8175	False	0.97	2.0
+19	54611759	A	G	NDUFA3	3'Flank	44	3	47	0.06382978723404255	2	1	1	0.1316	1	0.1316	0.1316	False	0.97	2.0

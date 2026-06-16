@@ -1,0 +1,9 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+3	184090683	G	C	THPO	Missense_Mutation	53	4	57	0.07017543859649122	2	1	1	0.2228	1	0.2228	0.2228	False	0.63	2.0
+4	5468544	A	C	STK32B	Missense_Mutation	43	3	46	0.06521739130434782	2	1	1	0.207	1	0.207	0.207	False	0.63	2.0
+4	89653166	G	T	FAM13A	Missense_Mutation	46	4	50	0.08	2	1	1	0.254	1	0.254	0.254	False	0.63	2.0
+6	33263171	G	A	RGL2	Missense_Mutation	6	6	12	0.5	2	1	1	1.5873	1	1.5873	1.0	True	0.63	2.0
+9	120475419	T	C	TLR4	Missense_Mutation	65	14	79	0.17721518987341772	2	1	1	0.5626	1	0.5626	0.5626	False	0.63	2.0
+9	140137041	C	G	TUBB4B	Missense_Mutation	47	26	73	0.3561643835616438	2	1	1	1.1307	1	1.1307	1.0	True	0.63	2.0
+12	3127744	A	T	TEAD4	Missense_Mutation	49	19	68	0.27941176470588236	2	1	1	0.887	1	0.887	0.887	True	0.63	2.0
+21	43838718	G	T	UBASH3A	Missense_Mutation	17	13	30	0.43333333333333335	2	1	1	1.3757	1	1.3757	1.0	True	0.63	2.0

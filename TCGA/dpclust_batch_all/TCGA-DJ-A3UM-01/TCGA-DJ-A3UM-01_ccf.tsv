@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	220073614	G	A	ZFAND2B	Intron	46	3	49	0.061224489795918366	2	1	1	0.1701	1	0.1701	0.1701	False	0.72	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	60	32	92	0.34782608695652173	2	1	1	0.9662	1	0.9662	0.9662	True	0.72	2.0
+19	56244558	G	A	NLRP9	Silent	28	4	32	0.125	2	1	1	0.3472	1	0.3472	0.3472	False	0.72	2.0
+X	153590835	G	A	FLNA	Missense_Mutation	167	22	189	0.1164021164021164	2	1	1	0.3233	1	0.3233	0.3233	False	0.72	2.0
