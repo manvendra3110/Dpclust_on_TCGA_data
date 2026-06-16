@@ -1,0 +1,4 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+10	69299304	G	A	CTNNA3	Missense_Mutation	52	3	55	0.05454545454545454	2	1	1	0.1705	1	0.1705	0.1705	False	0.64	2.0
+19	7795022	C	T	CLEC4G	Silent	21	4	25	0.16	2	1	1	0.5	1	0.5	0.5	False	0.64	2.0
+22	36123092	C	A	APOL5	Missense_Mutation	31	3	34	0.08823529411764706	2	1	1	0.2757	1	0.2757	0.2757	False	0.64	2.0

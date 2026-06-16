@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	20141406	G	A	RNF186	Silent	146	14	160	0.0875	2	1	1	0.3889	1	0.3889	0.3889	False	0.45	1.9
+2	29255896	C	A	FAM179A	Silent	40	4	44	0.09090909090909091	2	1	1	0.404	1	0.404	0.404	False	0.45	1.9
+3	113667722	T	G	ZDHHC23	Missense_Mutation	151	19	170	0.11176470588235295	1	1	0	0.385	1	0.385	0.385	False	0.45	1.9
+6	10804030	A	G	MAK	Silent	270	10	280	0.03571428571428571	2	1	1	0.1587	1	0.1587	0.1587	False	0.45	1.9
+17	27946687	T	C	CORO6	Silent	233	28	261	0.10727969348659004	2	1	1	0.4768	1	0.4768	0.4768	False	0.45	1.9
+17	48545502	T	C	CHAD	Missense_Mutation	277	27	304	0.08881578947368421	2	1	1	0.3947	1	0.3947	0.3947	False	0.45	1.9
