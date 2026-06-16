@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+5	140750149	C	T	PCDHGB3	Missense_Mutation	134	52	186	0.27956989247311825	2	1	1	0.9809	1	0.9809	0.9809	True	0.57	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	63	24	87	0.27586206896551724	2	1	1	0.9679	1	0.9679	0.9679	True	0.57	2.0
+12	10954956	A	G	TAS2R7	Missense_Mutation	54	30	84	0.35714285714285715	2	1	1	1.2531	1	1.2531	1.0	True	0.57	2.0
+19	19010463	T	G	COPE	3'UTR	20	5	25	0.2	2	1	1	0.7018	1	0.7018	0.7018	False	0.57	2.0

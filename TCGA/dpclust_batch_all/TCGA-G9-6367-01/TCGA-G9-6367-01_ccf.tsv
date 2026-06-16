@@ -1,0 +1,4 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	110884731	G	C	RBM15	Missense_Mutation	116	7	123	0.056910569105691054	2	1	1	0.4216	1	0.4216	0.4216	False	0.27	2.0
+2	44153050	T	C	LRPPRC	Silent	92	6	98	0.061224489795918366	2	1	1	0.4535	1	0.4535	0.4535	False	0.27	2.0
+5	178555106	C	A	ADAMTS2	Missense_Mutation	62	5	67	0.07462686567164178	2	1	1	0.5528	1	0.5528	0.5528	False	0.27	2.0

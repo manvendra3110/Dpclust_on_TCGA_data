@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+7	148427107	C	G	CUL1	5'UTR	23	18	41	0.43902439024390244	2	1	1	1.3105	1	1.3105	1.0	True	0.67	2.0
+7	148427233	C	T	CUL1	Nonsense_Mutation	81	32	113	0.2831858407079646	2	1	1	0.8453	1	0.8453	0.8453	False	0.67	2.0
+7	148427298	C	G	CUL1	Missense_Mutation	72	31	103	0.30097087378640774	2	1	1	0.8984	1	0.8984	0.8984	True	0.67	2.0
+15	42115806	C	T	MAPKBP1	Missense_Mutation	30	29	59	0.4915254237288136	2	1	1	1.4672	1	1.4672	1.0	True	0.67	2.0

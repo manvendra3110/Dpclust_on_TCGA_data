@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+5	176304656	C	G	UNC5A	Missense_Mutation	36	3	39	0.07692307692307693	2	1	1	0.2699	1	0.2699	0.2699	False	0.57	1.99
+7	140453136	A	T	BRAF	Missense_Mutation	27	5	32	0.15625	2	1	1	0.5482	1	0.5482	0.5482	False	0.57	1.99
+10	90699437	C	A	ACTA2	Missense_Mutation	29	3	32	0.09375	2	1	1	0.3289	1	0.3289	0.3289	False	0.57	1.99
+11	63487681	T	C	RTN3	Silent	48	3	51	0.058823529411764705	2	1	1	0.2064	1	0.2064	0.2064	False	0.57	1.99

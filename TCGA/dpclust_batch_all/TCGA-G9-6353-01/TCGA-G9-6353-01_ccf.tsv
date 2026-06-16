@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	41978662	G	A	HIVEP3	Missense_Mutation	46	3	49	0.061224489795918366	2	1	1	0.1224	1	0.1224	0.1224	False	1.0	2.0
+5	140187629	C	T	PCDHA4	Missense_Mutation	88	7	95	0.07368421052631578	2	1	1	0.1474	1	0.1474	0.1474	False	1.0	2.0
+16	67335718	C	T	KCTD19	Missense_Mutation	262	15	277	0.05415162454873646	2	1	1	0.1083	1	0.1083	0.1083	False	1.0	2.0
+19	46216533	G	A	FBXO46	Missense_Mutation	109	5	114	0.043859649122807015	2	1	1	0.0877	1	0.0877	0.0877	False	1.0	2.0
+22	37524348	G	A	IL2RB	Silent	81	6	87	0.06896551724137931	2	1	1	0.1379	1	0.1379	0.1379	False	1.0	2.0
+22	41616870	G	T	L3MBTL2	Missense_Mutation	71	4	75	0.05333333333333334	2	1	1	0.1067	1	0.1067	0.1067	False	1.0	2.0

@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	16093875	C	T	FBLIM1	Silent	62	4	66	0.06060606060606061	2	1	1	0.1924	1	0.1924	0.1924	False	0.63	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	24	15	39	0.38461538461538464	2	1	1	1.221	1	1.221	1.0	True	0.63	2.0
+8	32505799	C	T	NRG1	Intron	38	17	55	0.3090909090909091	2	1	1	0.9812	1	0.9812	0.9812	True	0.63	2.0
+12	94794732	T	C	CCDC41	Missense_Mutation	48	22	70	0.3142857142857143	2	1	1	0.9977	1	0.9977	0.9977	True	0.63	2.0
+19	56320297	G	A	NLRP11	Missense_Mutation	116	20	136	0.14705882352941177	2	1	1	0.4669	1	0.4669	0.4669	False	0.63	2.0

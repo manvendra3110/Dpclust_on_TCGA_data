@@ -1,0 +1,7 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	19525140	G	A	UBR4	Silent	28	21	49	0.42857142857142855	2	1	1	1.0582	1	1.0582	1.0	True	0.81	2.0
+4	82369389	T	C	RASGEF1B	Missense_Mutation	94	5	99	0.050505050505050504	2	1	1	0.1247	1	0.1247	0.1247	False	0.81	2.0
+13	32527237	G	A	EEF1DP3	RNA	19	3	22	0.13636363636363635	2	1	1	0.3367	1	0.3367	0.3367	False	0.81	2.0
+14	92484052	T	C	TRIP11	Missense_Mutation	7	8	15	0.5333333333333333	2	1	1	1.3169	1	1.3169	1.0	True	0.81	2.0
+17	73830422	C	T	UNC13D	Missense_Mutation	11	3	14	0.21428571428571427	2	1	1	0.5291	1	0.5291	0.5291	False	0.81	2.0
+21	45542224	C	T	PWP2	Silent	24	19	43	0.4418604651162791	2	1	1	1.091	1	1.091	1.0	True	0.81	2.0

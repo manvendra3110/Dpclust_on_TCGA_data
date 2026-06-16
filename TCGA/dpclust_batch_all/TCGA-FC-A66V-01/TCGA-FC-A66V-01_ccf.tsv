@@ -1,0 +1,3 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+14	38060702	G	A	FOXA1	Silent	66	4	70	0.05714285714285714	2	1	1	0.2597	1	0.2597	0.2597	False	0.44	2.0
+22	29628273	C	T	EMID1	Silent	72	4	76	0.05263157894736842	2	1	1	0.2392	1	0.2392	0.2392	False	0.44	2.0

@@ -1,0 +1,8 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	6511719	G	C	ESPN	Missense_Mutation	25	4	29	0.13793103448275862	2	1	1	0.4117	1	0.4117	0.4117	False	0.67	2.0
+3	87017837	T	C	VGLL3	Silent	30	9	39	0.23076923076923078	2	1	1	0.6889	1	0.6889	0.6889	False	0.67	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	67	32	99	0.32323232323232326	2	1	1	0.9649	1	0.9649	0.9649	True	0.67	2.0
+11	47189578	A	G	ARFGAP2	Missense_Mutation	66	3	69	0.043478260869565216	2	1	1	0.1298	1	0.1298	0.1298	False	0.67	2.0
+16	72845826	G	C	ZFHX3	Missense_Mutation	249	135	384	0.3515625	2	1	1	1.0494	1	1.0494	1.0	True	0.67	2.0
+19	19750895	T	C	GMIP	Missense_Mutation	35	12	47	0.2553191489361702	2	1	1	0.7621	1	0.7621	0.7621	False	0.67	2.0
+22	38251638	A	G	EIF3L	Silent	33	10	43	0.23255813953488372	2	1	1	0.6942	1	0.6942	0.6942	False	0.67	2.0

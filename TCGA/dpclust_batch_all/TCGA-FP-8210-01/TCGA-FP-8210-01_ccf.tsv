@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	223943324	G	A	CAPN2	Missense_Mutation	22	3	25	0.12	2	1	1	0.48	1	0.48	0.48	False	0.5	2.0
+2	235951626	C	A	SH3BP4	Nonsense_Mutation	41	3	44	0.06818181818181818	2	1	1	0.2727	1	0.2727	0.2727	False	0.5	2.0
+5	159830390	T	A	SLU7	Missense_Mutation	111	6	117	0.05128205128205128	2	1	1	0.2051	1	0.2051	0.2051	False	0.5	2.0
+15	45564491	A	G	SLC28A2	Splice_Site	22	3	25	0.12	2	1	1	0.48	1	0.48	0.48	False	0.5	2.0
+16	68844182	A	G	CDH1	Missense_Mutation	50	6	56	0.10714285714285714	2	1	1	0.4286	1	0.4286	0.4286	False	0.5	2.0
