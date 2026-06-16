@@ -1,0 +1,9 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	150675839	G	A	HORMAD1	Missense_Mutation	70	26	96	0.2708333333333333	3	2	1	1.2047	1	1.2047	1.0	True	0.58	2.75
+2	179499171	C	A	TTN	Missense_Mutation	84	21	105	0.2	3	2	1	0.8897	1	0.8897	0.8897	True	0.58	2.75
+11	68455486	C	T	GAL	Silent	151	9	160	0.05625	2	1	1	0.194	1	0.194	0.194	False	0.58	2.75
+12	123830101	G	C	SBNO1	Missense_Mutation	56	20	76	0.2631578947368421	3	2	1	1.1706	1	1.1706	1.0	True	0.58	2.75
+13	23906199	C	G	SACS	Missense_Mutation	55	46	101	0.45544554455445546	2	1	1	1.5705	1	1.5705	1.0	True	0.58	2.75
+15	63414877	G	A	LACTB	Missense_Mutation	95	28	123	0.22764227642276422	2	2	0	0.785	1	0.785	0.785	False	0.58	2.75
+16	89254650	G	A	CDH15	Missense_Mutation	75	4	79	0.05063291139240506	3	2	1	0.2252	1	0.2252	0.2252	False	0.58	2.75
+20	50049133	G	T	NFATC2	Missense_Mutation	28	5	33	0.15151515151515152	3	2	1	0.674	1	0.674	0.674	False	0.58	2.75
