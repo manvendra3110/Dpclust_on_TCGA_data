@@ -1,0 +1,4 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	142803673	C	T	RP11-423O2.5	RNA	185	16	201	0.07960199004975124	2	1	1	0.8379	1	0.8379	0.8379	False	0.19	2.0
+21	46058142	C	T	KRTAP10-10	3'UTR	100	12	112	0.10714285714285714	2	1	1	1.1278	1	1.1278	1.0	True	0.19	2.0
+22	40820376	A	C	MKL1	Missense_Mutation	210	9	219	0.0410958904109589	2	1	1	0.4326	1	0.4326	0.4326	False	0.19	2.0

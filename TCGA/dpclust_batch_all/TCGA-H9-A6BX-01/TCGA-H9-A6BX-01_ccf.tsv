@@ -1,0 +1,8 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	10380118	G	A	KIF1B	Silent	21	8	29	0.27586206896551724	2	1	1	0.5517	1	0.5517	0.5517	False	1.0	2.0
+1	203140290	C	T	MYBPH	Missense_Mutation	80	4	84	0.047619047619047616	2	1	1	0.0952	1	0.0952	0.0952	False	1.0	2.0
+3	47103828	G	A	SETD2	Nonsense_Mutation	232	11	243	0.04526748971193416	2	1	1	0.0905	1	0.0905	0.0905	False	1.0	2.0
+3	128181414	C	A	DNAJB8	Missense_Mutation	153	6	159	0.03773584905660377	2	1	1	0.0755	1	0.0755	0.0755	False	1.0	2.0
+9	131599993	G	C	CCBL1	Missense_Mutation	73	4	77	0.05194805194805195	2	1	1	0.1039	1	0.1039	0.1039	False	1.0	2.0
+10	13642288	T	C	PRPF18	Silent	60	4	64	0.0625	2	1	1	0.125	1	0.125	0.125	False	1.0	2.0
+19	38949966	C	T	RYR1	Missense_Mutation	37	3	40	0.075	2	1	1	0.15	1	0.15	0.15	False	1.0	2.0

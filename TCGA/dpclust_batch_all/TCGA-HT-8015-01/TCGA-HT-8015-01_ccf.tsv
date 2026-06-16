@@ -1,0 +1,4 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	232941067	G	A	MAP10	Missense_Mutation	102	5	107	0.04672897196261682	2	1	1	0.2921	1	0.2921	0.2921	False	0.32	2.0
+16	21073899	C	A	DNAH3	Missense_Mutation	88	4	92	0.043478260869565216	2	1	1	0.2717	1	0.2717	0.2717	False	0.32	2.0
+17	73144759	G	A	HN1	Missense_Mutation	35	3	38	0.07894736842105263	2	1	1	0.4934	1	0.4934	0.4934	False	0.32	2.0

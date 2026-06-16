@@ -1,0 +1,3 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+7	55211080	G	A	EGFR	Missense_Mutation	134	23	157	0.1464968152866242	2	1	1	0.9451	1	0.9451	0.9451	True	0.31	2.0
+11	94731685	G	A	KDM4D	Silent	50	3	53	0.05660377358490566	2	1	1	0.3652	1	0.3652	0.3652	False	0.31	2.0

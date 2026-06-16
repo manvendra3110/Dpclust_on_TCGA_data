@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	153719545	A	G	INTS3	Missense_Mutation	81	4	85	0.047058823529411764	3	2	1	0.3412	1	0.3412	0.3412	False	0.32	2.05
+6	112469364	T	A	LAMA4	Missense_Mutation	46	17	63	0.2698412698412698	2	1	1	1.6865	1	1.6865	1.0	True	0.32	2.05
+7	140453136	A	T	BRAF	Missense_Mutation	49	9	58	0.15517241379310345	2	1	1	0.9698	1	0.9698	0.9698	True	0.32	2.05
+19	46825036	C	T	HIF3A	Missense_Mutation	106	41	147	0.2789115646258503	2	1	1	1.7432	1	1.7432	1.0	True	0.32	2.05

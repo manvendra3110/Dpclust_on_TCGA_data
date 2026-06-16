@@ -1,0 +1,2 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+19	619645	G	A	POLRMT	Missense_Mutation	604	21	625	0.0336	2	1	1	0.3055	1	0.3055	0.3055	False	0.22	2.0

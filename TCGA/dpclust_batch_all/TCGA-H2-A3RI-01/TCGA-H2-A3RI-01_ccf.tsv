@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	201485429	G	C	AOX1	Silent	109	4	113	0.035398230088495575	2	1	1	0.0896	1	0.0896	0.0896	False	0.79	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	79	47	126	0.373015873015873	2	1	1	0.9443	1	0.9443	0.9443	True	0.79	2.0
+9	20982426	G	A	FOCAD	Missense_Mutation	109	4	113	0.035398230088495575	2	1	1	0.0896	1	0.0896	0.0896	False	0.79	2.0
+17	11872791	G	A	DNAH9	Missense_Mutation	49	4	53	0.07547169811320754	2	1	1	0.1911	1	0.1911	0.1911	False	0.79	2.0
