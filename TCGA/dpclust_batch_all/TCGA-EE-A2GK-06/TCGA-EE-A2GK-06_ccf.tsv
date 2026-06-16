@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+15	77407514	C	A	PEAK1	Missense_Mutation	20	3	23	0.13043478260869565	2	1	1	0.2635	1	0.2635	0.2635	False	0.99	2.0
+17	75212465	A	C	SEC14L1	Intron	13	3	16	0.1875	2	1	1	0.3788	1	0.3788	0.3788	False	0.99	2.0
+19	5245959	G	C	PTPRS	Silent	28	3	31	0.0967741935483871	2	1	1	0.1955	1	0.1955	0.1955	False	0.99	2.0
+19	53138336	C	A	ZNF83	5'UTR	29	4	33	0.12121212121212122	2	1	1	0.2449	1	0.2449	0.2449	False	0.99	2.0

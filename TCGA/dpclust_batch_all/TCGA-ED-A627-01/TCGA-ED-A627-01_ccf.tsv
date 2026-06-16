@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+5	131647904	G	T	SLC22A4	Silent	47	3	50	0.06	2	1	1	0.2609	1	0.2609	0.2609	False	0.46	2.0
+9	137968703	G	T	OLFM1	Intron	55	3	58	0.05172413793103448	2	1	1	0.2249	1	0.2249	0.2249	False	0.46	2.0
+12	49427679	C	T	KMT2D	Silent	19	3	22	0.13636363636363635	2	1	1	0.5929	1	0.5929	0.5929	False	0.46	2.0
+15	74425231	C	T	ISLR2	Missense_Mutation	51	3	54	0.05555555555555555	2	1	1	0.2415	1	0.2415	0.2415	False	0.46	2.0

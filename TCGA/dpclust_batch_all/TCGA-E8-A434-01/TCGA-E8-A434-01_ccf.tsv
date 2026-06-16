@@ -1,0 +1,8 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	155186821	C	T	MTX1	3'Flank	6	3	9	0.3333333333333333	2	1	1	1.3333	1	1.3333	1.0	True	0.5	2.0
+2	20402576	T	C	SDC1	Missense_Mutation	121	42	163	0.25766871165644173	2	1	1	1.0307	1	1.0307	1.0	True	0.5	2.0
+4	153247321	A	C	FBXW7	Nonsense_Mutation	83	26	109	0.23853211009174313	2	1	1	0.9541	1	0.9541	0.9541	True	0.5	2.0
+5	154394835	G	T	KIF4B	Silent	60	17	77	0.22077922077922077	2	1	1	0.8831	1	0.8831	0.8831	True	0.5	2.0
+7	140453136	A	T	BRAF	Missense_Mutation	47	16	63	0.25396825396825395	2	1	1	1.0159	1	1.0159	1.0	True	0.5	2.0
+19	2039729	G	T	MKNK2	Silent	23	9	32	0.28125	2	1	1	1.125	1	1.125	1.0	True	0.5	2.0
+X	79698776	C	A	FAM46D	Silent	32	14	46	0.30434782608695654	2	1	1	1.2174	1	1.2174	1.0	True	0.5	2.0
