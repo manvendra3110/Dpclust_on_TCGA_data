@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	183888621	T	C	NCKAP1	Silent	118	6	124	0.04838709677419355	2	1	1	0.2059	1	0.2059	0.2059	False	0.47	2.0
+5	169122871	G	A	DOCK2	Missense_Mutation	59	4	63	0.06349206349206349	2	1	1	0.2702	1	0.2702	0.2702	False	0.47	2.0
+6	29365004	C	G	OR12D2	Silent	119	5	124	0.04032258064516129	2	1	1	0.1716	1	0.1716	0.1716	False	0.47	2.0
+7	82580167	C	T	PCLO	Missense_Mutation	96	7	103	0.06796116504854369	2	1	1	0.2892	1	0.2892	0.2892	False	0.47	2.0
