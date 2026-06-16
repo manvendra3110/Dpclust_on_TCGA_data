@@ -1,0 +1,6 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+2	27803312	G	C	C2orf16	Missense_Mutation	52	15	67	0.22388059701492538	2	1	1	1.544	1	1.544	1.0	True	0.29	2.03
+5	108698676	T	C	PJA2	Missense_Mutation	259	30	289	0.10380622837370242	2	1	1	0.7159	1	0.7159	0.7159	False	0.29	2.03
+8	133899093	A	G	TG	Silent	55	13	68	0.19117647058823528	2	1	1	1.3185	1	1.3185	1.0	True	0.29	2.03
+12	49666386	G	T	TUBA1C	Silent	322	18	340	0.052941176470588235	2	1	1	0.3651	1	0.3651	0.3651	False	0.29	2.03
+X	134494360	G	A	ZNF449	Missense_Mutation	44	5	49	0.10204081632653061	2	1	1	0.7037	1	0.7037	0.7037	False	0.29	2.03

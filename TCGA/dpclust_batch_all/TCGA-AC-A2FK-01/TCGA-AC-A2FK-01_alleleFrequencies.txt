@@ -1,0 +1,4 @@
+#CHR	POS	Count_A	Count_C	Count_G	Count_T	Good_depth
+8	86572825	0	3	0	14	17
+19	38858779	5	0	0	137	142
+19	55378141	0	302	0	8	310

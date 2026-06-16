@@ -1,0 +1,5 @@
+chr	pos	ref	alt	gene	classification	t_ref_count	t_alt_count	total_depth	vaf	local_cn	major_cn	minor_cn	mcn	multiplicity	ccf	ccf_capped	is_clonal	purity	ploidy
+1	17609612	G	A	PADI3	3'UTR	22	3	25	0.12	2	1	1	0.5106	1	0.5106	0.5106	False	0.47	2.0
+13	114542747	G	T	GAS6	Missense_Mutation	118	8	126	0.06349206349206349	3	2	1	0.3337	1	0.3337	0.3337	False	0.47	2.0
+19	15838935	T	C	OR10H2	Missense_Mutation	106	5	111	0.04504504504504504	2	1	1	0.1917	1	0.1917	0.1917	False	0.47	2.0
+X	122866906	T	C	THOC2	5'Flank	39	3	42	0.07142857142857142	2	1	1	0.304	1	0.304	0.304	False	0.47	2.0
