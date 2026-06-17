@@ -13,6 +13,23 @@ $Tcga = 'C:/CloneHD_benchmarking/DPclust/TCGA'
 $Tracerx = 'C:/Users/ManvendraSingh/Downloads/TRACERx_NEJM_2017.rda'
 $Mc3Maf = 'C:/CloneHD_benchmarking/DPclust/TCGA/mc3.v0.2.8.PUBLIC.maf/mc3.v0.2.8.PUBLIC.maf'
 
+# Cohort configuration.
+# LUAD-only (default):
+#   $CohortName = 'LUAD'
+#   $SampleList = "$Tcga/tcga_luad_samples.txt"
+#   $DpclustInputRoot = "$Tcga/dpclust_batch_luad"
+# LUAD+LUSC:
+#   $CohortName = 'NSCLC'
+#   $SampleList = "$Tcga/tcga_nsclc_samples.txt"
+#   $DpclustInputRoot = "$Tcga/dpclust_batch_nsclc"
+$CohortName = 'NSCLC'
+$SampleList = "$Tcga/tcga_nsclc_samples.txt"
+$DpclustInputRoot = "$Tcga/dpclust_batch_all"
+
+if (!(Test-Path $SampleList)) {
+  throw "Missing cohort sample list: $SampleList"
+}
+
 $OutputsRoot = "$Tcga/outputs_old"
 $OldBatchOut = "$Tcga/outputs_old/batch_output"
 $DistOut = "$Tcga/outputs_old/validation_ccf_distribution"
@@ -34,21 +51,21 @@ Set-Location $Root
 
 # Optional Step 0: ABSOLUTE conversion (if starting from mastercalls)
 if ($runAbsoluteConversion) {
-  Write-Host 'Step 0/4: Converting ABSOLUTE mastercalls to Battenberg format...' -ForegroundColor Yellow
+  Write-Host "Step 0/4: Converting ABSOLUTE mastercalls to Battenberg format ($CohortName)..." -ForegroundColor Yellow
   & $R 'run_absolute_to_dpclust_batch.R' `
     --segtab='TCGA_mastercalls.abs_segtabs.fixed.txt' `
     --tables='TCGA_mastercalls.abs_tables_JSedit.fixed.txt' `
-    --output_dir='C:/CloneHD_benchmarking/DPclust/TCGA/dpclust_batch_luad' `
-    --sample_list='C:/CloneHD_benchmarking/DPclust/TCGA/tcga_luad_samples.txt'
+    --output_dir=$DpclustInputRoot `
+    --sample_list=$SampleList
   if ($LASTEXITCODE -ne 0) { throw "Step 0 failed with exit code $LASTEXITCODE" }
   Write-Host ''
 }
 
-Write-Host 'Step 1/3: Running old dpclust3p batch export...' -ForegroundColor Yellow
+Write-Host "Step 1/3: Running old dpclust3p batch export ($CohortName)..." -ForegroundColor Yellow
 & $R 'run_old_dpclust3p_batch_from_existing.R' `
-  --input_root='C:/CloneHD_benchmarking/DPclust/TCGA/dpclust_batch_luad' `
+  --input_root=$DpclustInputRoot `
   --output_root='C:/CloneHD_benchmarking/DPclust/TCGA/outputs_old/batch_output' `
-  --sample_list='C:/CloneHD_benchmarking/DPclust/TCGA/tcga_luad_samples.txt' `
+  --sample_list=$SampleList `
   --lib='C:/CloneHD_benchmarking/DPclust/.r_libs_dpclust3p_v100' `
   --dpclust3p_ref='dpclust3p-v1.0.0'
 if ($LASTEXITCODE -ne 0) { throw "Step 1 failed with exit code $LASTEXITCODE" }
@@ -63,7 +80,7 @@ if ($LASTEXITCODE -ne 0) { throw "Step 2 failed with exit code $LASTEXITCODE" }
 Write-Host 'Step 3/3: Running gene progression comparison...' -ForegroundColor Yellow
 & $R 'compare_luad_old_v100_to_tracerx_gene_progression.R' `
   --old_root='C:/CloneHD_benchmarking/DPclust/TCGA/outputs_old/batch_output' `
-  --luad_fast_root='C:/CloneHD_benchmarking/DPclust/TCGA/dpclust_batch_luad' `
+  --luad_fast_root=$DpclustInputRoot `
   --tracerx_rda='C:/Users/ManvendraSingh/Downloads/TRACERx_NEJM_2017.rda' `
   --out_dir='C:/CloneHD_benchmarking/DPclust/TCGA/outputs_old/validation_gene_progression'
 if ($LASTEXITCODE -ne 0) { throw "Step 3 failed with exit code $LASTEXITCODE" }
@@ -73,7 +90,7 @@ Write-Host 'Step 4/4: Running consolidated TCGA vs TRACERx comparison...' -Foreg
   --tracerx_rda='C:/Users/ManvendraSingh/Downloads/TRACERx_NEJM_2017.rda' `
   --maf_path='C:/CloneHD_benchmarking/DPclust/TCGA/mc3.v0.2.8.PUBLIC.maf/mc3.v0.2.8.PUBLIC.maf' `
   --ccf_dir='C:/CloneHD_benchmarking/DPclust/TCGA/outputs_old/batch_output' `
-  --sample_list='C:/CloneHD_benchmarking/DPclust/TCGA/tcga_luad_samples.txt' `
+  --sample_list=$SampleList `
   --out_dir='C:/CloneHD_benchmarking/DPclust/TCGA/outputs_old/validation_final'
 if ($LASTEXITCODE -ne 0) { throw "Step 4 failed with exit code $LASTEXITCODE" }
 

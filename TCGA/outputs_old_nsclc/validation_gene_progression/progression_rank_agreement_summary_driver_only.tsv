@@ -1,0 +1,2 @@
+shared_gene_count	tracerx_gene_count	luad_gene_count	common_gene_fraction_tracerx	common_gene_fraction_luad	spearman_rho	kendall_tau	top20_overlap_count	top20_jaccard	driver_filter_applied	driver_gene_reference_count
+69	69	73	1	0.945205479452055	0.761965655827548	0.572037510656436	15	0.6	TRUE	75

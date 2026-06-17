@@ -59,6 +59,21 @@ Organized under `TCGA/`:
 
 For a clean rerun, use the PowerShell pipeline below. It deletes `TCGA/outputs_old` first and rebuilds all outputs from scratch.
 
+### Cohort Selection (LUAD vs LUAD+LUSC)
+
+The workflow script is now cohort-configurable via variables at the top of `WORKFLOW_PIPELINE.ps1`.
+
+- Default (LUAD-only):
+  - `$CohortName = 'LUAD'`
+  - `$SampleList = "$Tcga/tcga_luad_samples.txt"`
+  - `$DpclustInputRoot = "$Tcga/dpclust_batch_luad"`
+- LUAD+LUSC:
+  - `$CohortName = 'NSCLC'`
+  - `$SampleList = "$Tcga/tcga_nsclc_samples.txt"`
+  - `$DpclustInputRoot = "$Tcga/dpclust_batch_nsclc"`
+
+Note: the pipeline requires a sample list file. To run LUAD+LUSC, provide `tcga_nsclc_samples.txt` (15-char sample IDs), otherwise the run remains LUAD-only.
+
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\WORKFLOW_PIPELINE.ps1
 ```
