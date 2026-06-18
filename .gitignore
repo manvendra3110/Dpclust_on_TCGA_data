@@ -1,0 +1,17 @@
+﻿# Large data files
+*.maf
+*.maf.gz
+
+# Virtual environments
+.venv/
+__pycache__/
+
+# R library caches
+.r_libs_*/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+.DS_Store
